@@ -1,0 +1,18 @@
+Search Query: Software Engineer automation risk in 5 years
+Search Engine: Google (via SerpAPI)
+Date: 2025-07-04 08:54:37
+Borrower ID: 101
+================================================================================
+
+1. The Automation Takeover: Are Software Engineers ...
+   URL: https://www.forbes.com/sites/hessiejones/2024/09/21/the-automation-takeover-are-software-engineers-becoming-obsolete/
+   Summary: Software developers, on the other hand, have been labelled high AI exposure and low automation risk. While Fateev and Kulkarni in 2023 predicted ...
+
+2. Will AI replace software engineers in the next 5 years?
+   URL: https://www.quora.com/Will-AI-replace-software-engineers-in-the-next-5-years
+   Summary: Highly unlikely, particularly in the next 5 years. It might get to the point of starting to replace some software engineers around then. After ...
+
+3. Will many programmers lose their jobs in the next 5 years? ...
+   URL: https://www.quora.com/Will-many-programmers-lose-their-jobs-in-the-next-5-years-There-are-many-AI-tools-that-speed-up-the-development-process-which-is-good-but-will-it-affect-the-job-market-in-the-future
+   Summary: It will impact job markets and be the greatest force of disruption that we have ever encountered. · The thing is, building sophisticated software ...
+

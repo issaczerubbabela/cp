@@ -1,0 +1,18 @@
+Search Query: disease risk in high-pollution zones in IT region
+Search Engine: Google (via SerpAPI)
+Date: 2025-07-04 08:55:14
+Borrower ID: 101
+================================================================================
+
+1. Particulate Matter Air Pollution: Effects on the ...
+   URL: https://pmc.ncbi.nlm.nih.gov/articles/PMC6250783/
+   Summary: Both acute and chronic exposure to PM air pollution is associated with increased risk of death from cardiovascular diseases including ischemic heart disease, ...
+
+2. Health Impacts of Air Pollution
+   URL: https://www.who.int/teams/environment-climate-change-and-health/air-quality-energy-and-health/health-impacts
+   Summary: The specific disease outcomes most strongly linked with exposure to air pollution include stroke, ischaemic heart disease, chronic obstructive pulmonary disease ...
+
+3. Diseases Caused By Air Pollution - Risk Factors and Control ...
+   URL: https://cleanair.camfil.us/2018/02/09/diseases-caused-by-air-pollution-risk-factors-and-control-methods/
+   Summary: The most common diseases caused by air pollution include ischemic heart disease, stroke, chronic obstructive pulmonary disease (COPD), lung cancer and acute ...
+

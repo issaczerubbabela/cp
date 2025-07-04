@@ -1,0 +1,110 @@
+URL: https://www.weforum.org/publications/the-future-of-jobs-report-2025/digest/
+Borrower ID: 101
+Search Query: IT job market demand 5 years ahead
+Original Title: The Future of Jobs Report 2025 | World Economic Forum
+Original Summary: Learn how global trends like tech innovation and green transition will transform jobs, skills, and workforce strategies in The Future of ...
+Page Title: The Future of Jobs Report 2025 | World Economic Forum
+Content Length: 9681 characters
+Scraping Status: success
+Date Scraped: 2025-07-04 09:14:19
+================================================================================
+
+GEMINI SUMMARY:
+----------------------------------------
+Here's a comprehensive summary of the provided content, focusing on the IT job market demand in the next 5 years, relevant for loan risk assessment:
+
+**1. Comprehensive Summary:**
+
+The World Economic Forum's "Future of Jobs Report 2025" highlights significant transformations in the labor market between 2025 and 2030, driven by technological innovation, the green transition, economic conditions, demographic shifts, and geopolitical factors. These forces are expected to cause a net job growth of 7% (78 million jobs), but also a significant restructuring with 14% of new jobs being created, and 8% of jobs displaced.  Broadening digital access, advancements in AI and information processing, robotics/automation, and energy technologies are primary drivers. The rising cost of living and climate change mitigation also play significant roles, influencing both job creation and the skills required for future employment.
+
+The report emphasizes the critical need for workforce upskilling and reskilling. An estimated 59% of the workforce will require training by 2030. However, a significant portion of the workforce (11%) is at risk of being left behind without adequate training opportunities. Skill gaps are considered the biggest barrier to business transformation by employers, necessitating prioritization of upskilling programs.  Growing and declining roles have substantial differences in skills requirements which may cause increased skills gaps.
+
+Specifically concerning the IT sector, the report predicts high demand for technology-related roles, particularly in AI and Machine Learning, Big Data, Fintech Engineering, and Software & Application Development. Skills like networks and cybersecurity, and technological literacy are rapidly growing in demand.  This growth is partially offset by the decline of manual dexterity, endurance and precision skills.  Geopolitical tensions also contribute by boosting demand for network and cybersecurity skills. Conversely, certain clerical and administrative roles relying on repetitive tasks are expected to decline significantly due to automation. This transition presents both opportunities and risks for individuals and businesses, particularly those dependent on specific skill sets.
+
+The report's findings have implications for various sectors, from education and healthcare to energy and manufacturing, with corresponding impact on jobs, skills, and workforce strategies. The analysis offers a roadmap for governments, businesses, and individuals to navigate the evolving job landscape and prepare for the future of work.
+
+**2. Key Facts and Statistics Relevant to the Search Query (IT Job Market Demand 5 Years Ahead):**
+
+*   **Fastest-Growing Roles:** Technology-related roles are the fastest-growing in percentage terms, including:
+    *   Big Data Specialists
+    *   Fintech Engineers
+    *   AI and Machine Learning Specialists
+    *   Software and Application Developers
+*   **Top 3 Fastest-Growing Skills:**
+    *   AI and Big Data
+    *   Networks and Cybersecurity
+    *   Technological Literacy
+*   **Transformative Trends:** 86% of employers expect advancements in AI and information processing to transform their business.
+*   **Skill Instability:** On average, workers can expect 39% of their existing skill sets to become outdated between 2025-2030.
+*   **Skills Gap:** 63% of employers identify skill gaps as the biggest barrier to business transformation.
+*   **Upskilling Focus:** 85% of employers plan to prioritize upskilling their workforce.
+
+**3. Important Trends or Predictions Mentioned:**
+
+*   **Continued Growth in IT:** The demand for IT professionals in specialized areas like AI, Cybersecurity, and Data Science will continue to surge.
+*   **Skill Specialization:**  Broad IT knowledge will be less valuable than expertise in specific, high-demand areas.
+*   **Upskilling Imperative:** IT professionals will need to continuously upskill and reskill to remain competitive.
+*   **Automation Impact:** Automation will displace lower-skill IT jobs, like data entry and some aspects of network administration (though specialized network and cybersecurity roles will increase).
+*   **Geopolitical Influence:** Cybersecurity skills are increasingly important because of geopolitical fragmentation
+
+**4. Specific Company or Industry Insights:**
+
+*   The report does not provide company-specific insights, but it does highlight that all employers across all sectors are having to increase spending on upskilling and redeployment of existing staff.
+
+**5. Financial Data or Forecasts (Relevant for Loan Risk Assessment):**
+
+*   **Net Job Growth:** The report projects a net job growth of 7% of total employment, or 78 million jobs by 2030. This suggests overall economic stability, but with significant sectoral shifts. This is offset with losses of 92 million jobs due to displacement.
+*   **Job Displacement:** The equivalent of 8% of current jobs is expected to be displaced due to automation and technological changes. This could lead to higher unemployment in certain sectors.
+*   **Reskilling Costs:** The large-scale reskilling and upskilling efforts required will place a significant financial burden on companies, governments, and individuals.
+*   **Inflation and Slow Growth:** Inflation is predicted to have a mixed outlook for net job creation to 2030, while slower growth is expected to displace 1.6 million jobs globally.
+*   **Offshoring/Reshoring:** Employers expecting geoeconomic trends to transform their business are also more likely to offshore – and even more likely to re-shore – operations.
+*   **Investment in Automation:** Businesses will continue to invest in automation technologies, further contributing to job displacement in certain sectors.
+
+**Implications for Loan Risk Assessment:**
+
+*   **IT Professionals (Borrowers):** Lending to IT professionals in high-demand areas (AI, Cybersecurity, Software Development) may be considered lower risk due to strong job security and potential for salary growth. Assess their specialization, upskilling efforts, and relevance of their skills to future trends.
+*   **Companies in IT Sector (Borrowers):**
+    *   Evaluate their investment in upskilling and reskilling initiatives. Companies actively addressing the skills gap are likely to be more resilient.
+    *   Assess their dependence on roles susceptible to automation. Businesses heavily reliant on manual tasks in IT support or data entry might face higher financial risks.
+    *   Evaluate their exposure to global markets and geopolitical tensions. Companies with significant international operations may be vulnerable to trade restrictions and economic uncertainties.
+*   **Other Industries (Borrowers):** Companies in other sectors reliant on outdated IT systems or lacking a digital transformation strategy may face increased competitive pressure and financial strain. Assess their technology adoption roadmap and their strategy for leveraging new technologies to improve efficiency and innovation.
+
+In summary, the report emphasizes the importance of adaptability, continuous learning, and strategic investment in technology and human capital. These are critical factors to consider when assessing loan risk in the context of the rapidly evolving IT job market.
+
+FULL CONTENT:
+----------------------------------------
+Broadening digital access is expected to be the most transformative trend – both across technology-related trends and overall – with 60% of employers expecting it to transform their business by 2030. Advancements in technologies, particularly AI and information processing (86%); robotics and automation (58%); and energy generation, storage and distribution (41%), are also expected to be transformative. These trends are expected to have a divergent effect on jobs, driving both the fastest-growing and fastest-declining roles, and fueling demand for technology-related skills, including AI and big data, networks and cybersecurity and technological literacy, which are anticipated to be the top three fastest- growing skills.
+
+Increasing cost of living ranks as the second- most transformative trend overall – and the top trend related to economic conditions – with half of employers expecting it to transform their business by 2030, despite an anticipated reduction in global inflation. General economic slowdown, to a lesser extent, also remains top of mind and is expected to transform 42% of businesses. Inflation is predicted to have a mixed outlook for net job creation to 2030, while slower growth is expected to displace 1.6 million jobs globally. These two impacts on job creation are expected to increase the demand for creative thinking and resilience, flexibility, and agility skills.
+
+Climate-change mitigation is the third-most transformative trend overall – and the top trend related to the green transition – while climate-change adaptation ranks sixth with 47% and 41% of employers, respectively, expecting these trends to transform their business in the next five years. This is driving demand for roles such as renewable energy engineers, environmental engineers and electric and autonomous vehicle specialists, all among the 15 fastest-growing jobs. Climate trends are also expected to drive an increased focus on environmental stewardship, which has entered the Future of Jobs Report’s list of top 10 fastest growing skills for the first time.
+
+Two demographic shifts are increasingly seen to be transforming global economies and labour markets: aging and declining working age populations, predominantly in higher- income economies, and expanding working age populations, predominantly in lower-income economies. These trends drive an increase in demand for skills in talent management, teaching and mentoring, and motivation and self-awareness. Aging populations drive growth in healthcare jobs such as nursing professionals, while growing working-age populations fuel growth in education-related professions, such as higher education teachers.
+
+Geoeconomic fragmentation and geopolitical tensions are expected to drive business model transformation in one-third (34%) of surveyed organizations in the next five years. Over one- fifth (23%) of global employers identify increased restrictions on trade and investment, as well as subsidies and industrial policies (21%), as factors shaping their operations. Almost all economies for which respondents expect these trends to be most transformative have significant trade with the United States and/or China. Employers who expect geoeconomic trends to transform their business are also more likely to offshore – and even more likely to re-shore – operations. These trends are driving demand for security related job roles and increasing demand for network and cybersecurity skills. They are also increasing demand for other human-centred skills such as resilience, flexibility and agility skills, and leadership and social influence.
+
+Extrapolating from the predictions shared by Future of Jobs Survey respondents, on current trends over the 2025 to 2030 period job creation and destruction due to structural labour-market transformation will amount to 22% of today’s total jobs. This is expected to entail the creation of new jobs equivalent to 14% of today’s total employment, amounting to 170 million jobs. However, this growth is expected to be offset by the displacement of the equivalent of 8% (or 92 million) of current jobs, resulting in net growth of 7% of total employment, or 78 million jobs.
+
+Frontline job roles are predicted to see the largest growth in absolute terms of volume and include Farmworkers, Delivery Drivers, Construction Workers, Salespersons, and Food Processing Workers. Care economy jobs, such as Nursing Professionals, Social Work and Counselling Professionals and Personal Care Aides are also expected to grow significantly over the next five years, alongside Education roles such as Tertiary and Secondary Education Teachers.
+
+Technology-related roles are the fastest- growing jobs in percentage terms, including Big Data Specialists, Fintech Engineers, AI and Machine Learning Specialists and Software and Application Developers. Green and energy transition roles, including Autonomous and Electric Vehicle Specialists, Environmental Engineers, and Renewable Energy Engineers, also feature within the top fastest-growing roles.
+
+Clerical and Secretarial Workers – including Cashiers and Ticket Clerks, and Administrative Assistants and Executive Secretaries – are expected to see the largest decline in absolute numbers. Similarly, businesses expect the fastest-declining roles to include Postal Service Clerks, Bank Tellers and Data Entry Clerks.
+
+On average, workers can expect that two-fifths (39%) of their existing skill sets will be transformed or become outdated over the 2025-2030 period. However, this measure of “skill instability” has slowed compared to previous editions of the report, from 44% in 2023 and a high point of 57% in 2020 in the wake of the pandemic. This finding could potentially be due to an increasing share of workers (50%) having completed training, reskilling or upskilling measures, compared to 41% in the report’s 2023 edition.
+
+Analytical thinking remains the most sought- after core skill among employers, with seven out of 10 companies considering it as essential in 2025. This is followed by resilience, flexibility and agility, along with leadership and social influence.
+
+AI and big data top the list of fastest-growing skills, followed closely by networks and cybersecurity as well as technology literacy. Complementing these technology-related skills, creative thinking, resilience, flexibility and agility, along with curiosity and lifelong learning, are also expected to continue to rise in importance over the 2025-2030 period. Conversely, manual dexterity, endurance and precision stand out with notable net declines in skills demand, with 24% of respondents foreseeing a decrease in their importance.
+
+While global job numbers are projected to grow by 2030, existing and emerging skills differences between growing and declining roles could exacerbate existing skills gaps. The most prominent skills differentiating growing from declining jobs are anticipated to comprise resilience, flexibility and agility; resource management and operations; quality control; programming and technological literacy.
+
+Given these evolving skill demands, the scale of workforce upskilling and reskilling expected to be needed remains significant: if the world’s workforce was made up of 100 people, 59 would need training by 2030. Of these, employers foresee that 29 could be upskilled in their current roles and 19 could be upskilled and redeployed elsewhere within their organization. However, 11 would be unlikely to receive the reskilling or upkskilling needed, leaving their employment prospects increasingly at risk.
+
+Skill gaps are categorically considered the biggest barrier to business transformation by Future of Jobs Survey respondents, with 63% of employers identifying them as a major barrier over the 2025- 2030 period. Accordingly, 85% of employers surveyed plan to prioritize upskilling their workforce, with 70% of employers expecting to hire staff with new skills, 40% planning to reduce staff as their skills become less relevant, and 50% planning to transition staff from declining to growing roles.
+
+Supporting employee health and well-being is expected to be a top focus for talent attraction, with 64% of employers surveyed identifying it as a key strategy to increase talent availability. Effective reskilling and upskilling initiatives, along with improving talent progression and promotion, are also seen as holding high potential for talent attraction. Funding for - and provision of - reskilling and upskilling are seen as the two most welcomed public policies to boost talent availability.
+
+The Future of Jobs Survey also finds that adoption of diversity, equity and inclusion initiatives remains on the rise. The potential for expanding talent availability by tapping into diverse talent pools is highlighted by four times more employers (47%) than two years ago (10%). Diversity, equity and inclusion initiatives have become more prevalent, with 83% of employers reporting such an initiative in place, compared to 67% in 2023. Such initiatives are particularly popular for companies headquartered in North America, with a 96% uptake rate, and for employers with over 50,000 employees (95%).
+
+By 2030, just over half of employers (52%) anticipate allocating a greater share of their revenue to wages, with only 7% expecting this share to decline. Wage strategies are driven primarily by goals of aligning wages with workers’ productivity and performance and competing for retaining talent and skills. Finally, half of employers plan to re- orient their business in response to AI, two-thirds plan to hire talent with specific AI skills, while 40% anticipate reducing their workforce where AI can automate tasks.

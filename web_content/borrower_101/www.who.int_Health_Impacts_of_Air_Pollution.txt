@@ -1,0 +1,16 @@
+URL: https://www.who.int/teams/environment-climate-change-and-health/air-quality-energy-and-health/health-impacts
+Borrower ID: 101
+Search Query: disease risk in high-pollution zones in IT region
+Original Title: Health Impacts of Air Pollution
+Original Summary: The specific disease outcomes most strongly linked with exposure to air pollution include stroke, ischaemic heart disease, chronic obstructive pulmonary disease ...
+Page Title: 
+Content Length: 0 characters
+Scraping Status: failed
+Date Scraped: 2025-07-04 09:08:16
+================================================================================
+
+Error: Page.goto: Timeout 30000ms exceeded.
+Call log:
+  - navigating to "https://www.who.int/teams/environment-climate-change-and-health/air-quality-energy-and-health/health-impacts", waiting until "networkidle"
+
+Original Summary: The specific disease outcomes most strongly linked with exposure to air pollution include stroke, ischaemic heart disease, chronic obstructive pulmonary disease ...

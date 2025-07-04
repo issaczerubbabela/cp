@@ -1,0 +1,16 @@
+URL: https://www.spiceworks.com/tech/it-careers-skills/articles/future-of-it-jobs-which-tech-roles-will-be-in-demand-in-10-years/
+Borrower ID: 101
+Search Query: IT job market demand 5 years ahead
+Original Title: The Future of IT Jobs: Looking Ahead 10 Years
+Original Summary: Peter Tsai looks at recent data from the US Bureau of Labor Statistics to determine what jobs are expected to stay in demand over the next decade.
+Page Title: 
+Content Length: 0 characters
+Scraping Status: failed
+Date Scraped: 2025-07-04 09:14:53
+================================================================================
+
+Error: Page.goto: Timeout 30000ms exceeded.
+Call log:
+  - navigating to "https://www.spiceworks.com/tech/it-careers-skills/articles/future-of-it-jobs-which-tech-roles-will-be-in-demand-in-10-years/", waiting until "networkidle"
+
+Original Summary: Peter Tsai looks at recent data from the US Bureau of Labor Statistics to determine what jobs are expected to stay in demand over the next decade.

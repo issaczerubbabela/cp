@@ -1,0 +1,13 @@
+URL: https://bdtechtalks.com/2019/03/29/ageism-in-tech-age-limit-software-developers-face/
+Borrower ID: 101
+Search Query: replaceability of Software Engineer aged 40 in IT
+Original Title: Ageism in tech: the not-so-invisible age limit developers face
+Original Summary: 61 percent of developers over 45 are concerned that their age is limiting their career options. And this concern is not unfounded.
+Page Title: Ageism in tech: the not-so-invisible age limit developers face - TechTalks
+Content Length: 0 characters
+Scraping Status: low_content
+Date Scraped: 2025-07-04 09:17:36
+================================================================================
+
+Error: None
+Original Summary: 61 percent of developers over 45 are concerned that their age is limiting their career options. And this concern is not unfounded.

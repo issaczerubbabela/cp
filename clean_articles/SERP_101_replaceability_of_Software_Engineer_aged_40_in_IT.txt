@@ -1,0 +1,18 @@
+Search Query: replaceability of Software Engineer aged 40 in IT
+Search Engine: Google (via SerpAPI)
+Date: 2025-07-04 08:55:04
+Borrower ID: 101
+================================================================================
+
+1. Why do software developers age over 40 leave the industry?
+   URL: https://www.quora.com/Why-do-software-developers-age-over-40-leave-the-industry
+   Summary: There does exist ageism in the industry. And there is a pattern of firing older, more expensive developers, that's more common than it should be ...
+
+2. Ageism in tech: the not-so-invisible age limit developers face
+   URL: https://bdtechtalks.com/2019/03/29/ageism-in-tech-age-limit-software-developers-face/
+   Summary: 61 percent of developers over 45 are concerned that their age is limiting their career options. And this concern is not unfounded.
+
+3. Are software engineers fired after 40 ? Ageism in the industry ...
+   URL: https://www.youtube.com/watch?v=Ug8TXkm8KaQ
+   Summary: It is extremely unlikely for a 35 year old manager to hire a 50 year old software engineer. That's the real reason IT workers have an expiration date.
+

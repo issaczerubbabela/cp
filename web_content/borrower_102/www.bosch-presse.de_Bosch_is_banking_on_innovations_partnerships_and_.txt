@@ -1,0 +1,164 @@
+URL: https://www.bosch-presse.de/pressportal/de/en/leitmeldung-264192.html
+Borrower ID: 102
+Search Query: Bosch product relevance in 5 years
+Original Title: Bosch is banking on innovations, partnerships, and ...
+Original Summary: We're pursuing innovations, partnerships, and acquisitions to ensure we grow as our industries transform – despite economic headwinds.
+Page Title: Bosch is banking on innovations, partnerships, and acquisitions – cost reduction remains in focus - Bosch Media Service
+Content Length: 16269 characters
+Scraping Status: success
+Date Scraped: 2025-07-04 09:23:55
+================================================================================
+
+GEMINI SUMMARY:
+----------------------------------------
+Here's a detailed summary of the provided web content, focusing on Bosch's product relevance in the next 5 years, particularly concerning loan risk assessment:
+
+**1. Comprehensive Summary (300-500 words)**
+
+Bosch is navigating a challenging economic environment while pursuing a long-term growth strategy focused on innovation, partnerships, and acquisitions. The company aims for an average annual growth of 6-8% and an EBIT margin of at least 7%, targeting to be among the top three suppliers in its key markets globally. While Bosch achieved its financial targets for 2023, surpassing expectations with a 5.3% EBIT margin, this still falls short of the long-term goal and the company anticipates 2024 to be equally, if not more, challenging. They forecast only 2.3% global economic growth in 2024, stagnating vehicle production, and continued weakness in mechanical engineering.
+
+Bosch is strategically expanding into new growth areas, particularly:
+
+*   **Medical Technology:** Focused on BioMEMS technology, combining molecular diagnostics with microsystems for rapid point-of-care testing (e.g., sepsis, multidrug-resistant bacteria). Bosch is investing €300 million by 2030 in this area with partners Randox and R-Biopharm.
+*   **Sustainable Mobility:** Emphasizing electromobility and vehicle dynamics. Bosch is launching 30 EV production projects this year, estimating 70% of new cars in Europe will be electric by 2030. They are experiencing 10% annual growth in vehicle dynamics technology (braking systems) tailored for EVs and automated driving. Bosch is also developing vehicle motion management (VMM) systems.
+*   **Hydrogen:** Targeting €5 billion in sales by 2030. They launched fuel-cell system production in Germany and China in 2023. While China is expected to lead in the near term, Bosch is developing hydrogen engines for commercial vehicles. Bosch is also entering the hydrogen production market with electrolysis stacks.
+*   **Heat Pumps:** Despite a stagnant European market in 2023, Bosch grew its heat pump business by almost 50%. They expect to continue outperforming the market.
+
+To achieve its goals, Bosch is focused on profitability and financial strength to self-finance growth. This includes cost reduction, process improvements, and restructuring measures. Bosch intends to manage any personnel adjustments through consultation with social partners and without compulsory redundancies. They are expanding their international footprint, building new factories in Egypt (stoves) and Mexico (refrigerators). Sales in the first quarter of 2024 were mixed, indicating that achieving the year's growth targets will be difficult. Despite this, Bosch remains committed to its strategic investments, expecting innovations and international expansion to drive future growth.
+
+**2. Key Facts and Statistics Relevant to the Search Query ("Bosch product relevance in 5 years")**
+
+*   **Target EBIT Margin:** At least 7% by 2026. This shows a push for profitability in the next 2 years that should continue on to 5.
+*   **Electromobility Projections:** Expects 70% of new cars in Europe to be electric by 2030, 40-50% in China and North America. This indicates the growing relevance of Bosch's EV-related technologies and the need for infrastructure to support EVs.
+*   **Hydrogen Sales Target:** €5 billion in sales with hydrogen technology by 2030. This indicates a significant investment and anticipated growth in hydrogen-related products and services.
+*   **Vehicle Dynamics Technology Growth:** Growing by 10% annually in braking systems tailored for EVs and automated driving. This showcases a strong position in a growing market segment.
+*   **Heat Pump Growth:** Grew its heat pump business by almost 50% in 2023 despite a stagnant market.
+*   **BioMEMS Investment:** Investing €300 million by 2030 in BioMEMS with partners. This showcases an investment in growing medical technology and innovations.
+*   **Hydrogen production electrolysis worldwide:** Bosch aims to participate in the rapidly growing market for hydrogen production: by 2030, there will be a good 170 gigawatts of installed capacity for hydrogen electrolysis worldwide – around 25 times as much as today. “Our electrolysis stack is on course for market entry next year,” Hartung said.
+
+**3. Important Trends or Predictions Mentioned**
+
+*   **Electrification of Automotive:** Transition to electric vehicles, particularly in Europe.
+*   **Growth in Hydrogen Economy:** Focus on hydrogen engines and production.
+*   **Expansion in Medical Technology:** Using microsystems technology for advanced diagnostics.
+*   **Subdued Economic Outlook:** Expecting weak global economic growth in the near term.
+*   **Regional Variations:** Recognizing that the pace of adoption for technologies like electromobility will vary by region (Europe, China, North America).
+
+**4. Specific Company or Industry Insights**
+
+*   **Diversification:** Bosch is strategically diversifying into new growth areas beyond its traditional automotive focus.
+*   **Partnerships:** Bosch relies heavily on strategic partnerships to accelerate development and market entry in new areas.
+*   **Geographic Expansion:** Investing in factories in emerging markets like Egypt and Mexico to expand its international footprint.
+*   **Cost Management:** Focusing on cost reduction and process improvements to maintain competitiveness.
+
+**5. Financial Data or Forecasts if Available**
+
+*   **2023 Sales:** €91.6 billion
+*   **2023 EBIT:** €4.8 billion
+*   **2023 EBIT Margin:** 5.3%
+*   **Target EBIT Margin:** At least 7% by 2026
+*   **Hydrogen Sales Target:** €5 billion by 2030
+
+**Loan Risk Assessment Considerations:**
+
+*   **Positive Factors:** Bosch's diversification strategy, focus on growth areas like sustainable mobility and medical technology, strong financial performance in 2023, and commitment to profitability are all positive indicators. Their established market position, brand recognition, and technological expertise provide a strong foundation.
+*   **Risk Factors:** The challenging economic outlook, stagnating vehicle production, and increased upfront investments could put pressure on profitability in the short term. The company's reliance on partnerships could also present risks if these collaborations are not successful. Meeting the ambitious growth targets in hydrogen and other areas will depend on market adoption and technological advancements. The delay in achieving the target EBIT margin also highlights potential execution risks.
+*   **Overall Assessment:** Bosch appears to be a relatively low-risk borrower. While economic headwinds and execution challenges exist, the company's diversified portfolio, investments in future-oriented technologies, and commitment to financial strength position it well for long-term success. However, potential lenders should closely monitor the company's progress towards its EBIT margin target and the adoption rates of its new technologies in key markets. Furthermore, the dependence on partnerships is a factor to consider when assessing risk.
+
+In essence, Bosch is positioning itself to remain a relevant and successful company over the next five years by investing in key growth areas, adapting to market changes, and focusing on cost efficiency. However, lenders must weigh the potential risks associated with economic uncertainty and the execution of Bosch's ambitious strategic plans.
+
+FULL CONTENT:
+----------------------------------------
+Stuttgart and Renningen, Germany – The Bosch Group increased its sales and earnings in 2023 and is successfully implementing its growth strategy despite a difficult environment. Presenting the company’s annual figures, Stefan Hartung, chairman of the board of management of Robert Bosch GmbH, said: “In the 2023 business year, we achieved our financial targets and strengthened our market position in a number of business areas, from semiconductors to integrated building systems. We’re pursuing innovations, partnerships, and acquisitions to ensure we grow as our industries transform – despite economic headwinds.” Over the long term, the supplier of technology and services wants to achieve average annual growth of between 6 and 8 percent, with a margin of at least 7 percent. It also aims to rank among the top three suppliers in its key markets in all regions of the world.
+
+Bosch is also strategically expanding innovation fields with growth opportunities. In medical technology, for example, it has announced it will be working on a novel BioMEMS technology that combines molecular diagnostics with microsystems technology. It enables precise tests for up to 250 genetic traits such as pathogens or genetic mutations on a single chip, and directly at the point of care – in a doctor’s office, for example. “BioMEMS combines molecular diagnostics with the microsystems technology that Bosch deploys in smartphones and ESP anti-skid systems,” Hartung said. One of the first BioMEMS tests the company is working on will target various pathogens that cause sepsis, or blood poisoning. For this purpose, Bosch recently entered into a development and sales partnership with Randox. A further strategic partnership with R-Biopharm is intended to accelerate the development of a fully automated test for multidrug-resistant bacteria. Together with these two partners, Bosch plans to invest some 300 million euros by 2030.
+
+Sales and result improved in 2023 – 2024 remains challenging
+
+In the past business year, Bosch generated sales of 91.6 billion euros despite unfavorable economic and market conditions. This is an increase of 3.8 percent, or an exchange rate-adjusted 8.0 percent. Earnings from operations before interest and taxes (EBIT) amounted to 4.8 billion euros (2022: 3.8 billion euros). At 5.3 percent, the EBIT margin from operations was 1 percentage point higher than the previous year. It was therefore higher than expected, but still lower than the target margin of at least 7 percent required over the long term. Bosch wants to achieve this by 2026. “We need a high level of profitability and financial strength so we can self-finance our growth targets as far as possible,” said Markus Forschner, member of the board of management and chief financial officer of Robert Bosch GmbH. “A successful final sprint contributed to our expectations for 2023 on the whole being met. However, the 2024 business year will be at least as challenging as 2023.”
+
+Bosch’s overall outlook for the current year remains subdued, not least in light of the current economic backdrop. “For 2024, we aren’t expecting any economic tailwind,” Forschner said. Accordingly, he is expecting global economic growth of only 2.3 percent in 2024, along with stagnating vehicle production and continued weakness in the mechanical engineering market. However, there could be a slight improvement in the consumer goods markets after two years of consumer restraint. Bosch expect its own business to stabilize, to which innovations as well as the expansion of its international footprint should contribute. For example, a new stove factory in Egypt and a refrigerator factory in Mexico are currently being built.
+
+In the first quarter of 2024, sales were down by 0.8 percent year on year; after adjusting for exchange-rate effects, this amounts to a rise of 2.7 percent. “This makes it clear that the 5 to 7 percent increase in sales that we are aiming for in our planning for the year as a whole is very ambitious,” Forschner said. The CFO made it clear that it will be difficult to improve on the previous year’s EBIT margin from operations: “We are not only contending with a subdued market environment and an expected further increase in upfront investments in areas of strategic importance. Restructuring and process improvements will also have a negative impact at first, with their positive effect coming only after a delay.” Moreover, Bosch wants to further reduce costs and change structures in order to remain competitive as its industries transform. As Forschner pointed out: “We will put the necessary measures in place consistently, but with a sense of proportion.” Any personnel adjustments required will be made without compulsory redundancies and in consultation with social partners.
+
+Growth area: sustainable mobility
+
+In its core mobility business, Bosch is pushing forward with strategic decisions for future growth. This year alone, it is launching some 30 production projects for electric vehicles. “Electromobility is coming; the only question is how quickly it will arrive in the various regions of the world,” Hartung said. “We estimate that 70 percent of all new cars in Europe will likely be purely electric by 2030. That figure will likely be 40 to 50 percent in China and North America.” Where heavy vehicles are needed to cover long distances, the Bosch chairman said solutions such as plug-in hybrids and range extenders will remain in demand for some time. The Mobility business sector expects a further stimulus from vehicle dynamics technology. With new and redundant braking systems tailored to electrified and automated driving, Bosch is growing by 10 percent annually – significantly faster than the market. And with vehicle motion management, or VMM for short, Bosch is committed to an innovative system solution that will coordinate all aspects of vehicle motion by controlling the brakes, steering, powertrain, and dampers. For recent winter tests alone, Bosch equipped more than 20 major-brand test vehicles with variants of VMM. “We’re early on the scene, and we’ll be putting our first order into volume production this year,” Hartung said. Overall, the company expects to achieve sales worth hundreds of millions by 2030.
+
+Growth area: hydrogen
+
+Bosch has reaffirmed its business expectations in the growth area of hydrogen: by 2030, its sales with hydrogen technology could reach 5 billion euros. “In 2023, we launched production of fuel-cell systems in Stuttgart, Germany, and Chongqing, China,” Hartung said. China will likely be the leading market for the time being; Bosch does not expect to see major growth in Europe or North America until the next decade. From a technical point of view, hydrogen engines represent the fastest path to climate-neutral commercial-vehicle transportation. Bosch expects the market for this technology to be worth almost 1 billion euros by 2030. As the Bosch chairman explained: “A hydrogen engine featuring our injection technology will be on the road in India as early as this year, and we’re already working on five production orders from well-known truck manufacturers from all three of the world’s major economic regions.” Bosch also wants to participate in the rapidly growing market for hydrogen production: by 2030, there will be a good 170 gigawatts of installed capacity for hydrogen electrolysis worldwide – around 25 times as much as today. “Our electrolysis stack is on course for market entry next year,” Hartung said. “In the future, Bosch will be synonymous not only with hydrogen powertrains, but also with hydrogen production. As a supplier, we will actively help shape the future market.”
+
+Growth area: heat pumps
+
+Bosch is also systematically exploiting growth opportunities in the area of heating technology. Although the heat-pump market stagnated across Europe in 2023, Bosch was able to grow its business by almost 50 percent. In the years ahead, Bosch will continue to grow significantly faster than the market in this segment. “We’ve not only invested in manufacturing capacity, but also expanded our product portfolio – which includes heat pumps that are not just quiet and efficient, but cost-effective as well,” Hartung said. The Bosch chairman sees additional sales potential in hybrid heating systems: a combination of a heat pump for basic operation and a gas-fired boiler for peak loads. This will enable the efficient decarbonization of millions of existing buildings. Bosch is initially debuting a solution with this technology for apartment buildings containing up to 100 residential units. Hartung also referred to the controversial debate about Germany’s heating law, which has hindered long-term purchasing decisions and led to a severe slump in the heating market. “In areas where climate and energy policy are in contradiction, investors don’t invest – they wait,” he said. “Growth requires a clear and predictable subsidy policy.”
+
+Climate policy: carbon-neutral future requires sustained investment
+
+Overall, climate action continues to play a central role for Bosch. In Hartung’s view, it offers great opportunities for growth, even if markets such as electromobility are not developing as fast as expected. “However, we’re seeing that climate action is no longer the only issue at the top of the political agenda, in the light of complex geopolitics and increasing social tensions in our society,” Hartung said. Nonetheless, Bosch is continuing to make heavy upfront investments in technologies for a carbon-neutral future, in order to help shape this transformation from the top. Hartung said: “There is pressure to cut subsidies for CO-efficient technologies. But climate action requires sustained investment – from government, from companies, and from each and every one of us.”
+
+The 2023 business year: improved free cash flow, heavy upfront investments
+
+While Bosch’s inventory levels in the previous year were still heavily affected by the uncertainties that followed the Covid-19 pandemic and chip shortages, the situation is now returning to normal. As a result, free cash flow improved to 2.2 billion euros. At 2.4 percent of sales, this was above the minimum target of 1.0 percent. The equity ratio was 44.2 percent (2022: 46.6 percent). Research and development expenditure remained stable at a high level of 7.3 billion euros (2022: 7.2 billion euros), resulting in an R&D ratio of 8 percent (2022: 8.2 percent). Capital expenditure reached a new high of 5.5 billion euros (2022: 4.9 billion euros). As Forschner pointed out: “We also pay close attention to the cost-effectiveness of our upfront investments, which totaled more than 12 billion euros in 2023, and make adjustments to projects if necessary.”
+
+The 2023 business year: development by business sector
+
+The business sector achieved sales growth of 6.9 percent to 56.2 billion euros. Adjusted for exchange-rate effects, growth equates to 10.9 percent. The EBIT margin from operations was 4.4 percent (2022: 3.4 percent). In the Industrial Technology business sector, sales rose to 7.4 billion euros. This growth of 6.8 percent, or an exchange rate-adjusted 10.2 percent, is due to the first-time consolidation of the HydraForce and Elmo Motion Control acquisitions. The EBIT margin was stable at 9.1 percent (2022: 9.8 percent). In the Consumer Goods business sector, sales were down 6.6 percent on the previous year at 19.9 billion euros; adjusted for exchange-rate effects, this is a slight decrease of 1.2 percent. The EBIT margin from operations was unchanged at 4.5 percent. In the Energy and Building Technology business sector, sales grew 10.5 percent to 7.7 billion euros, or 13.2 percent after adjusting for exchange-rate effects. The EBIT margin from operations reached 9 percent (2022: 6 percent).
+
+The 2023 business year: development by region
+
+In , sales totaled 46.8 billion euros. This is an increase of 5.5 percent compared to the previous year, or 7.9 percent after adjusting for exchange-rate effects. In North America, sales increased by 6.2 percent to 15.2 billion euros. Adjusted for exchange-rate effects, this represents growth of 8 percent. Sales in South America totaled 1.7 billion euros, compared to 1.8 billion euros in the previous year. After adjusting for exchange-rate effects, this 6.2 percent decline equates to 1.8 percent growth. In Asia Pacific, including other regions, sales totaled 27.9 billion euros. After adjusting for exchange-rate effects, this slight increase of 0.6 percent represents significant growth of 8.6 percent.
+
+The 2023 business year: headcount increase of some 2 percent
+
+At the end of the year, the company employed 429,416 people worldwide, which is 8,078 more than in the previous year. Last year, the number of associates rose in all regions, Germany included. The strongest regional growth was in the Americas.
+
+, Annual press conference, Annual report, Press conference, , Bosch Group,
+
+Contact persons for press inquiries:
+
+Corporate, business, and financial topics:
+
+Sven Kahn, Email: Sven.Kahn@de.bosch.com
+Phone: +49 711 811-6415
+
+Energy and Building Technology, medical technology:
+
+Dörthe Warnk, Email: Doerthe.Warnk@de.bosch.com
+Phone: +49 711 811-55508
+
+Sustainable mobility:
+
+Jörn Ebberg, Email: Joern.Ebberg@de.bosch.com
+Phone: +49 711 811-26223
+
+Human resources and social welfare:
+
+Kristina Müller-Poschmann, Email: Kristina.Mueller-Poschmann@de.bosch.com
+Phone: +49 711 811-52988
+
+
+Asia Pacific (English version)
+
+Belgium (Dutch version)
+
+Belgium (French version)
+
+
+
+Press kit Annual press conference 2024
+
+Bosch key data 2023 at a glance
+
+Bosch annual report 2023
+
+Bosch Sustainability report 2023
+
+
+The Bosch Group is a leading global supplier of technology and services. It employs roughly 429,000 associates worldwide (as of December 31, 2023). The company generated sales of 91.6 billion euros in 2023. Its operations are divided into four business sectors: Mobility, Industrial Technology, Consumer Goods, and Energy and Building Technology. With its business activities, the company aims to use technology to help shape universal trends such as automation, electrification, digitalization, connectivity, and an orientation to sustainability. In this context, Bosch’s broad diversification across regions and industries strengthens its innovativeness and robustness. Bosch uses its proven expertise in sensor technology, software, and services to offer customers cross-domain solutions from a single source. It also applies its expertise in connectivity and artificial intelligence in order to develop and manufacture user-friendly, sustainable products. With technology that is “Invented for life,” Bosch wants to help improve quality of life and conserve natural resources. The Bosch Group comprises Robert Bosch GmbH and its roughly 470 subsidiary and regional companies in over 60 countries. Including sales and service partners, Bosch’s global manufacturing, engineering, and sales network covers nearly every country in the world. Bosch’s innovative strength is key to the company’s further development. At 136 locations across the globe, Bosch employs some 90,000 associates in research and development, of which nearly 48,000 are software engineers.
+
+The company was set up in Stuttgart in 1886 by Robert Bosch (1861–1942) as “Workshop for Precision Mechanics and Electrical Engineering.” The special ownership structure of Robert Bosch GmbH guarantees the entrepreneurial freedom of the Bosch Group, making it possible for the company to plan over the long term and to undertake significant upfront investments in the safeguarding of its future. Ninety-four percent of the share capital of Robert Bosch GmbH is held by Robert Bosch Stiftung GmbH, a charitable foundation. The remaining shares are held by Robert Bosch GmbH and by a corporation owned by the Bosch family. The majority of voting rights are held by Robert Bosch Industrietreuhand KG. It is entrusted with the task of safeguarding the company’s long-term existence and in particular its financial independence – in line with the mission handed down in the will of the company’s founder, Robert Bosch.
+
+Additional information is available online at www.bosch.com, www.iot.bosch.com, www.bosch-press.com.
+
+Annual press conference 2024

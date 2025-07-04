@@ -1,0 +1,501 @@
+URL: https://explodingtopics.com/blog/auto-industry-trends
+Borrower ID: 102
+Search Query: Automotive job market demand 5 years ahead
+Original Title: 10 Important Auto Industry Trends (2025-2027)
+Original Summary: 5. The automotive parts market continues to grow. The global automotive parts market has been steadily growing for the past twenty years.
+Page Title: 10 Important Auto Industry Trends (2025-2027)
+Content Length: 22929 characters
+Scraping Status: success
+Date Scraped: 2025-07-04 09:20:50
+================================================================================
+
+GEMINI SUMMARY:
+----------------------------------------
+Here's a summary analyzing the provided web content, focused on the automotive job market demand five years ahead (from the presumed date of the article, 2024). This summary will also attempt to extract financial data that may be of interest for use in loan risk assessment.
+
+**1. Comprehensive Summary (300-500 words)**
+
+The automotive industry is undergoing a significant transformation driven by technological advancements and environmental concerns. This transformation is primarily focused on three key areas: electric vehicles (EVs), autonomous vehicles (AVs), and connected cars. These changes are expected to have a profound impact on the automotive job market over the next five years and beyond.
+
+**Electric Vehicles (EVs):**  The global shift to EVs is the most impactful trend.  Sales of EVs have exploded in recent years, rising from less than 1% of total vehicle sales a decade ago to over 4% in 2020 and an estimated 17 million in 2024. This growth is expected to continue, with Bloomberg New Energy Finance projecting EVs to account for all new car sales by 2025 (which it appears to have missed the mark on) and 58% by 2040. Regulatory requirements (net-zero emissions goals) are a major driver, with several countries aiming to phase out internal combustion engine vehicles.  Falling battery prices and increasing charging infrastructure are also accelerating adoption. While EV's share of the cars on the road will likely only be 8% in 2030, a large increase is expected after that. The adoption of EVs is requiring companies to hire engineers specializing in battery technology, software development for EVs, and electric motor design. It impacts the job market by reducing the need for mechanics for gasoline powered engines, and increasing the need for mechanics trained to work with EV's.
+
+**Autonomous Vehicles (AVs):** The autonomous vehicle market is still in its early stages, but projected to grow dramatically.  The number of autonomous vehicles on the road is expected to increase significantly, potentially reaching 33 million by 2040. The autonomous vehicle market is currently valued at around $207.38 billion and expected to increase tenfold in the coming years.  Major automakers like Tesla, Alphabet, Ford, GM, and Volvo are heavily invested in this space.  Autonomous trucking is a promising near-term application, potentially reducing accidents and driver exhaustion. This necessitates a shift in the job market towards roles involving AI development, sensor technology, and robotics engineers. Furthermore, new regulatory positions will likely be created, and legal positions will be created to manage risk.
+
+**Connected Cars:**  The increasing adoption of 5G and the Internet of Things (IoT) is making vehicles more connected. The global connected car market is worth approximately $103.24 billion and is expected to grow to $191.83 billion by 2028. Connected cars require individuals specializing in telematics and data analytics.
+
+**Impact on the Job Market:** These trends will impact the demand for existing roles, but more importantly the demand for entirely new job roles to fill the skills gaps.
+
+**2. Key Facts and Statistics Relevant to the Search Query:**
+
+*   **EV Sales:** 17 million estimated global EV sales in 2024.
+*   **EV Market Share Forecast:** EVs expected to account for all new car sales by 2025 (appears to be an overestimate in hindsight) and 58% by 2040.
+*   **AV Market Size:** $207.38 billion currently, with an expected 10x growth in the next 4-6 years.
+*   **Autonomous Vehicles on the Road:** Estimated 33 million by 2040.
+*   **Connected Car Market:** Expected to reach $191.83 billion by 2028.
+
+**3. Important Trends or Predictions Mentioned:**
+
+*   **Continued Growth of EV Market:** Driven by regulation, battery efficiency, and charging infrastructure development.
+*   **Autonomous Trucking as Near-Term Application:** Reducing trucking accidents and driver exhaustion.
+*   **5G and IoT Driving Connected Car Growth:** Leading to increased vehicle connectivity and data collection.
+*   **Level 1 Automation:** More than half of all vehicles are expected to fall into the Level 1-5 range in 2024, with 54.2 vehicles expected to meet level 1 standard.
+
+**4. Specific Company or Industry Insights:**
+
+*   **Tesla:** Leading EV manufacturer, influencing EV range perceptions. Scrapped plans for a Model S Plaid+. Launched FSD subscription service.
+*   **Alphabet (Waymo):** Operating autonomous vehicles in Phoenix, San Francisco, and LA.
+*   **Ford and Volkswagen:** Investing in Argo AI for autonomous vehicle development.
+*   **TuSimple:** A promising company in the autonomous trucking ecosystem, partnering with Navistar and UPS.
+*   **Google and Ford:** Connected car partnership called Team Upshift.
+
+**5. Financial Data or Forecasts if Available (for Loan Risk Assessment):**
+
+*   **Global Automotive Parts Market:** The article summary mentioned steady growth in the global automotive parts market for the past 20 years. This suggests stability, although the transition to EVs might shift demand towards different types of parts (e.g., EV-specific components versus traditional engine parts).
+*   **EV Battery Prices:** Lithium-ion battery prices have fallen dramatically, indicating lower production costs for EVs, making them more competitive. This benefits EV manufacturers but could hurt suppliers of traditional engine components.
+*   **Autonomous Vehicle Market:** The substantial growth forecast (10x in 4-6 years) indicates potential for high returns on investment in this sector, but also carries higher risk due to the early stage of development and regulatory uncertainties.
+*   **Connected Car Market:** Strong growth predicted, suggesting opportunities for companies involved in telematics, data analytics, and related services.
+
+**Implications for Loan Risk Assessment:**
+
+*   **Suppliers of Traditional Engine Components:** High risk. The transition to EVs and potential decline of the ICE engine indicates a likely decline in business for these companies.
+*   **EV Battery Manufacturers:** Moderate to low risk. Demand for batteries is high and expected to continue growing.
+*   **Autonomous Vehicle Companies:** High risk. A substantial investment in R&D is usually needed to remain competitive, making it an unstable industry.
+*   **Connected Car Service Providers:** Moderate risk. The growth of the connected car market would allow for steady growth and long-term success for connected car service providers.
+
+FULL CONTENT:
+----------------------------------------
+The auto industry is one of the largest and most influential markets on the planet.
+
+The industry itself, however, has remained relatively stable over the last decade.
+
+Rapid technological and environmental innovations have forced incumbents to adapt to new challenges.
+
+And have led to new startups coming out of nowhere.
+
+If you want to learn more about 10 of the most important auto industry trends for the next 18-36 months, read on.
+
+Probably the most important trend in the automotive industry is the worldwide shift to electric vehicles (EVs).
+
+Searches for “electric vehicles” are up by 110% over the past 5 years.
+
+The IEA estimates that global EV sales exceeded units in 2020. That’s over 4% of global vehicle sales. In 2024, that figure was estimated to have climbed to over 17 million.
+
+EV sales from less than 1% of total vehicle sales a decade ago to more than 4% today.
+
+After a disappointing 2019 in terms of EV sales, 2020 sales surpassed expectations, growing over 40% year-over-year.
+
+Because of this growth, it’s estimated that there are more than 40 million electric cars on the road.
+
+Recently, China and Europe have been leading the way in EV sales growth.
+
+Sales for BEV and PHEV in Europe increased by in 2020 compared with the previous year (despite a 20% year-over-year decrease in the total car market).
+
+Europe now is the largest market for new plug-in electric vehicles, overtaking China's first spot.
+
+Searches for "plug in hybrid" have increased 238% since 2020.
+
+And this trend isn’t expected to slow down anytime soon.
+
+Bloomberg New Energy Finance expects EVs to account for of all new car sales by 2025 and 58% by 2040.
+
+Even with this rapid growth, EV’s share of cars on the road is expected to remain at just 8% by 2030.
+
+The massive rotation in the global vehicle fleet is predicted to take place in the 2030s.
+
+By the end of that decade, it’s predicted that over 30% of the cars on the road will be EVs.
+
+Much of this growth will be driven by regulatory requirements.
+
+Several countries have set out to achieve net-zero emissions by 2050.
+
+Searches for “net zero” have increased by 350% in 5 years.
+
+Some countries (and California) have even to phasing out all new sales of combustion engine vehicles over the next few decades.
+
+Countries and states that have committed to phasing out the sale of internal combustion engines.
+
+It’s estimated that to meet many of these net-zero emission goals, EVs will have to climb to at least half of all new car sales by 2050.
+
+This is faster growth than predicted by many authorities, but other initiatives may help.
+
+Increasing battery efficiency as well as EV charging infrastructure can speed up adoption.
+
+Lithium-ion battery prices have fallen by 89% over the last decade, reaching a price of $137/kWh in 2020. In 2023, Lithium-ion packs cost an estimated $152 per kilowatt-hour.
+
+In China, it was even reported that lithium-ion battery pack prices fell below $100/kWh for the first time.
+
+Search results for “lithium-ion” are up 72% over the last 5 years.
+
+Right now, there are only about  public EV charging stations across the US.
+
+Number of EV charging stations per 100,000 residents in each state.
+
+However, it is estimated that of all Americans have garages that will allow for electric vehicle charging.
+
+The increasing range of EVs should also help alleviate concerns.
+
+The 2020 Tesla Model S Long Range Plus has completely changed the perception of the EV range. It can go over  on a single charge.
+
+Tesla scrapped plans for a Model S Plaid+ after the success of the current version.
+
+Searches for "Tesla" have risen 100% over the last 5 years.
+
+Additionally, , , , , and have all released more affordable EVs that have a range of anywhere from 200 miles to 250 miles.
+
+Autonomous vehicles (AVs) are set to disrupt the auto industry.
+
+Searches for “autonomous driving” have increased by over 1,029% over the past 10 years.
+
+The AV industry itself is just in its infancy, as there are only 17,000 self-driving cars on the road in the US today.
+
+However, it’s estimated that there will be 33 million autonomous vehicles on the road by 2040.
+
+The Society of Automotive Engineers (SAE) “Levels of Driving Automation” standard shows how stages of vehicle automation progress.
+
+The standard ranges from SAE Level 0 (no automation) to SAE Level 5 (full automation).
+
+There are already over 30 million vehicles on the road that meet the Level 1 standard.
+
+And predictions indicate that this number will grow to 54.2 million in 2024.
+
+In addition, more than half of all vehicles are expected to fall into the Level 1-5 range in 2024.
+
+The global autonomous vehicle market is currently valued at $207.38 billion.
+
+And it is expected to grow by roughly 10x in the next four to six years.
+
+Large automakers like Tesla, Alphabet, Ford, GM, and Volvo have all entered the autonomous vehicle space.
+
+Alphabet Inc. subsidiary is now operating in Phoenix, San Francisco and LA.
+
+Search interest in “Waymo” has increased by 108% over the last two years.
+
+Volkswagen a $2.6 billion investment in AV startup, Argo AI, in June of 2020. It joins Ford Motors, as the two now own roughly 80% of Argo.
+
+As a result of this partnership, Ford is expected to launch its own self-driving car business.
+
+Now, CEO Elon Musk has launched the FSD subscription service, . As of the end of 2023, over 1 billion miles have been driven with Tesla Autopilot enables.
+
+A major barrier to this relentless growth, however, is consumer and regulatory concerns.
+
+The National Transportation Safety Board (NTSB) has already announced the need for stricter regulation of Tesla’s Autopilot program.
+
+It also recently its sister agency – the National Highway Traffic Safety Administration (NHTSA) – for help.
+
+And with about two-thirds of people saying they would rather drive than ride in an autonomous car, much of the near-term focus is on trucking.
+
+It’s that the $800 billion trucking industry could benefit from a significant reduction in the 4900 trucking-related deaths that occur each year if only Level 3 or 4 autonomy would gain traction.
+
+This could allow drivers to retain their jobs, but avoid the injuries and deaths that result from exhaustion.
+
+The number of autonomous trucks on the road was expected to increase from roughly 150 in 2020 to over 2000 in 2021.
+
+One of the most promising companies in the autonomous trucking ecosystem is .
+
+The company has $648 million since its founding in 2015, including from some large transportation companies such as Union Pacific and Goodyear.
+
+In addition, TuSimple has partnered with Navistar and UPS to test its software under supervised driving conditions.
+
+The company already has 50 Level 4 autonomous trucks operating in the Southwestern United States.
+
+And TuSimple is hoping to begin selling completely autonomous Level 4 trucks to fleet operators in 2024.
+
+As 5G and the Internet of Things (IoT) continue their growth, vehicles are becoming more and more connected.
+
+Searches for “connected car” have risen by 96% over the last decade.
+
+This type of vehicle is defined by its ability to communicate with other software systems and collect data from its surroundings.
+
+It’s estimated that there were roughly 47.5 million connected cars sold in 2020.
+
+And that number was predicted to rise by 20% in 2021.
+
+The global connected car market is worth roughly $103.24 billion.
+
+And it is expected to grow to $191.83 billion by 2028.
+
+Size of the Global Connected Car Market between 2019 and 2028.
+
+Much of this growth will be driven by the adoption of 5G technologies.
+
+Statista predicted that global 5G smartphone subscriptions would by the end of 2021.
+
+This kind of adoption should lead to much-improved 5G infrastructure, which could support vehicle connectivity.
+
+Some of the largest tech companies are also now eyeing this market.
+
+Google and Ford recently announced a connected car partnership called Team Upshift.
+
+A Google/Ford partnership looks to add Android tech to a car's OS.
+
+As of 2023, the two now equip Ford and Lincoln vehicles with a built-in Android operating system.
+
+This connectivity should allow drivers to remain connected at all times.
+
+In addition, the initiative will leverage the data collected by adding Google’s AI capabilities to Ford vehicles.
+
+And Google isn’t the only one getting in on the action.
+
+It has been reported that Apple is considering a $3.6 billion investment in Kia.
+
+The two purportedly plan to begin manufacturing an autonomous Apple electric car as of 2024.
+
+Initial units are expected to number 100,000, but the project will have the capability to produce up to 400,000.
+
+The internet is affecting every part of the car-buying process.
+
+of car purchasers perform online research before a transaction.
+
+9 out of 10 car shoppers read reviews and perform online research online.
+
+And increasingly, more and more sales are taking place completely online.
+
+Pre-pandemic, about of total car sales took place online.
+
+This number is expected to have risen in 2020 as dealers everywhere turned to digital channels.
+
+This makes sense, as of car customers already said they wish they could save time by shopping online.
+
+And 80% of buyers already used third-party sites to assist in purchasing a car in 2019.
+
+These online vehicle retail services offer a major increase in buying efficiency.
+
+(And a thread to the traditional car dealer-focused business model.)
+
+In traditional dealership settings, customers spend over 3 hours on average in the dealer’s showroom.
+
+With online transactions, customers can complete the purchase with the click of a mouse.
+
+Online car retailer sold cars in 2020. That’s an increase of over 2019. In 2022 they sold .
+
+Searches for “Carvana” have increased by 6,900% over the last 10 years.
+
+According to Semrush data, Carvana also generated 195.2 million website visits from from 91.3 million unique users in 2024.
+
+And Tesla had already decided to close all its stores in 2019, now selling all new cars online.
+
+Even before COVID-19, 43% of shoppers said they wished they could complete the entire car buying process online.
+
+In 2024, Tesla owned a 48.2% EV market share. They also generated 374 million total website visits from 168.9 million unique visitors.
+
+The global automotive parts market has been steadily growing for the past twenty years.
+
+And it’s this space achieved roughly $723 billion in sales in 2021.
+
+Ecommerce has completely changed the auto parts market.
+
+Now, 94% of consumers check the manufacturer’s website for product information before purchasing a part.
+
+In addition, the ecommerce automotive aftermarket market is worth an estimated $85.28 billion.
+
+The parts industry is benefiting from the ever-increasing average age of vehicles on the road.
+
+However, the demand for parts is also being diminished by the increasing quality of newly manufactured vehicle parts.
+
+Much of this growth is being driven by the sale of new trucks and light SUVs.
+
+This category of vehicle is more prone to higher accessory and part sales.
+
+Even as new auto sales fell in 2020, light truck sales grew.
+
+Semiconductor chips are used in nearly every computing device. They’re so important that one analyst said, “semiconductors [have moved] ahead of oil as the world’s key commodity input for growth”.
+
+When demand for cars plummeted in the early days of the pandemic, auto manufacturers stopped ordering them and chip producers focused their attention elsewhere.
+
+After demand started coming back, there simply wasn’t an adequate supply of chips, and the auto industry has been feeling the effects ever since.
+
+The industry quickly realized this wasn't an easy issue to solve.
+
+Semiconductor experts say manufacturers won’t see a return on investment if they build new foundries to meet the auto industry’s demand.
+
+It can take years and billions of dollars to build new semiconductor chip fabrication facilities.
+
+In addition, the industry is known for using legacy technologies and operating on a just-in-time framework.
+
+All of this puts the auto industry at the back of the line when it comes to receiving chips. Manufacturers are prioritizing smartphone and cloud computing vendors instead.
+
+The chip shortage is proving to be costly for the industry with many auto manufacturers shutting down plants due to low supply.
+
+In early 2022, Ford temporarily closed eight of its plants due to the semiconductor chip shortage. In April, they halted production at a plant in Detroit.
+
+In March 2022, GM followed suit, shutting down its Fort Wayne, Indiana, plant for two weeks.
+
+In May of 2021, one consulting firm predicted the industry would lose $110 billion that year because of the shortage. The actual number came out to be more than $210 billion.
+
+Experts from Gartner say the shortage will last through 2022.
+
+Gartner’s research shows chip inventory comfortably back within the normal range by the third quarter of 2022.
+
+The CEO of semiconductor company Marvell Technology estimated that relief wasn’t coming until 2023 or 2024.
+
+However, there are a few promising points to be made.
+
+, the largest manufacturer of auto chips, is increasing its investment in production by nearly $1 billion euros in 2022.
+
+Search volume for “Infineon Technologies” has seen modest growth over the past 5 years.
+
+Many auto manufacturers are also pursuing workarounds.
+
+Tesla reportedly rewrote the software it uses in its vehicles so they could run on a different type of chip.
+
+Other car companies are removing features that require chips.
+
+For example, some BMWs have been built without their usual touchscreen capability, Chevrolet has removed heated seats and HD radios from certain models, and Nissan has been forced to forgo installing navigation systems in many of their cars in order to save the chips for their two best-selling models.
+
+Automotive sales in the United States are slumping and prices are on the rise.
+
+Many expected the auto industry to mount a post-pandemic rebound in 2021, but that didn’t happen.
+
+In the first quarter of 2022, sales fell to the lowest first-quarter volume in the past decade.
+
+Sales of passenger cars were in the first half of 2022 compared to the same period in 2021.
+
+Automotive sales in June 2022 were down 12% year-over-year.
+
+Cox Automotive Industry Insights predicted total new-vehicle sales in 2022 of only 14.4 million units, a number that doesn’t even surpass 2020 sales volume.
+
+Low inventory is the main reason for the sales slump.
+
+The chip shortage is one-factor holding cars back from getting to the dealership lots. But, there are other various supply chain issues and factory closures that have led to low inventory, too.
+
+Reports from 2022 showed vehicle inventory was stagnant, sitting between 1 million and 1.1 million vehicles, for the first six months of the year.
+
+Even six months into 2022, vehicle manufacturers haven’t been able to correct the issue of low inventory.
+
+With low inventory comes high prices. In fact, car prices are the highest they’ve ever been.
+
+Between 2021 and 2022, prices have increased nearly 20% year-over-year.
+
+The average price of a new vehicle was $47k in May 2022, the second-highest average price on record.
+
+Search volume for “used car prices” showed a steep increase in 2021.
+
+In some cases, car dealerships are charging huge markups on the inventory they do have.
+
+The Wall Street Journal reports that dealerships have been known to charge $40k above MSRP on luxury cars.
+
+Cars have long been the favorite mode of transportation for Americans.
+
+Survey data from 2022 shows that 76% of Americans use a car to commute.
+
+However, that number is smaller than it was in 2019 when more than 80% of people commuted by car.
+
+The survey showed fewer Americans using a car to commute in 2022 as compared to 2019.
+
+As individuals become more aware of the environmental impacts of their vehicles and more annoyed by traffic congestion, some analysts believe people will ditch their cars and “micromobility” will become more and more popular.
+
+Search volume for “micromobility” has surged in the past 5 years.
+
+Micromobility involves using small, low-speed transportation devices. Examples are bikes, scooters, and mopeds, as well as the electric versions of these vehicles.
+
+Sales of electric scooters are up, too. The US market was worth $14 billion in 2021 and is expected to grow at a CAGR of 10.7% to reach more than $31 billion by 2028.
+
+Search volume for “electric scooter” is up more than 247% in the past 5 years.
+
+These transportation options are a viable option for individuals traveling a short distance (0-5 miles), which accounts for 60% of all trips in the United States.
+
+The market for micromobility sat at $40 billion in 2020 and is expected to grow to $195 billion by 2030.
+
+A 2021 survey from McKinsey showed that 60% of Americans would be willing to use micromobility for their commute.
+
+As for those who already use micromobility vehicles, 32% say they often or very often use it instead of a private car.
+
+Shared micromobility vehicles are becoming a popular mode of transportation in cities where the pollution from cars and traffic congestion is particularly evident.
+
+In 2019, people took 136 million trips on shared bikes and scooters. That was a 60% increase over 2018.
+
+Scooter shares are the most popular type of shared micromobility.
+
+As of 2020, at least 224 cities in North America had shared scooter or bike systems.
+
+More than 200 cities in the United States have shared micromobility options.
+
+According to a study completed by INRIX Transportation, Honolulu, New Orleans, and Nashville are the three US cities that stand to gain the most from micromobility vehicles.
+
+Along with battery-powered electric vehicles, fuel cell electric vehicles (FCEV) are another alternative to internal combustion engines.
+
+FCEVs don’t rely on a battery. Instead, they get power from a fuel-cell stack that’s fed hydrogen and oxygen to create electricity through a chemical reaction. It’s like a battery that can be refueled instead of recharged.
+
+The only byproduct is water; these cars do not emit any CO2.
+
+Another benefit is the ease of . The process is similar to filling a tank with gasoline and takes only about five minutes.
+
+They also have a similar range as gasoline engines — 300-400 miles on one tank.
+
+Today’s hydrogen refueling stations can supply upwards of 900 kilograms of hydrogen per day, enough to fill approximately 225 tanks.
+
+The market for FCEVs is expected to grow at a remarkable CAGR of nearly 70%, through 2026.
+
+Although these types of cars are not yet penetrating the market like battery-powered EVs, sales are increasing: were sold in 2021, a 90% increase over 2020.
+
+States and auto manufacturers are taking extraordinary steps to promote FCEVs.
+
+In 2021, California offered a 65% discount on Toyota’s Mirai, a FCEV. Toyota offered an additional $20k discount and a $15k fuel credit. Individuals could take the car home for about $18k.
+
+The main issue holding back the popularity of these vehicles is a lack of hydrogen fueling stations.
+
+In the United States, there are only 54 stations where hydrogen is available and 53 of them are in California.
+
+By 2030, California officials aim to have 1,000 hydrogen refueling stations open.
+
+In addition, Hawaii passed a bill in 2022 that will create a hydrogen refueling system rebate for developers. Any infrastructure that’s built after January 1, 2023, and utilizes renewable hydrogen will be eligible for up to $200k.
+
+Hawaii has passed legislation to motivate developers to build more hydrogen refueling stations in the state.
+
+Along with an increase in refueling stations, look to see an increase in the variety of FCEVs available to consumers in the coming years.
+
+Toyota's Mirai and Hyundai's Nexo have been the two major players in the market since sales launched in 2016.
+
+In 2021, Jaguar Land Rover announced plans to develop and begin testing a prototype FCEV within the year.
+
+Jaguar Land Rover’s FCEV will be based on their Land Rover Defender model.
+
+Another notable brand, BMW, plans to launch its iX5 Hydrogen at the end of 2022.
+
+While the past two years have been a challenge for most auto manufacturers, high-end luxury brands have experienced unexpected success.
+
+While the market for cars valued below $80k is expected to remain flat through 2031, the luxury car market is predicted to grow at up to 14% CAGR.
+
+Sales of the most expensive cars are predicted to drive the most market growth through 2031.
+
+In 2023, the luxury car market is worth an estimated 635 billion Euros.
+
+Experts from J.D. Power say that sales of cars worth more than $100k were outselling lower-priced cars 3 to 1 in the first quarter of 2022.
+
+Data from the past 10 years shows the sale of luxury vehicles making a steep climb in 2022.
+
+Several brands are seeing a dramatic increase in sales.
+
+Bentley had a it's third best year ever in 2023. They sold more than 13.5k vehicles.
+
+Luxury sports cars are just as popular. Lamborghini had a record 2023, largely due to increased SUV sales.
+
+Solidifying its place as a more affordable high-end brand, Tesla is also seeing record sales.
+
+It’s clear that a select subset of today’s consumers are willing to pay for high-end automobiles.
+
+More than 12% of consumers who financed a new car in June of 2022 had a monthly payment of $1,000 or more. That’s another record-setting number.
+
+These five trends are causing major shake-ups in the automotive industry.
+
+Environmental concerns and technological innovations are advancing faster than many anticipated. From electrification to IoT connectivity, these shifts are changing the way cars are manufactured, sold, repaired, and driven.
+
+As technology progresses, expect these trends to influence every facet of the automotive sector.
+
+Use real-time topic data to create content that resonates and brings results.
+
+Exploding Topics is owned by Semrush. Our mission is to provide accurate data and expert insights on emerging trends. Unless otherwise noted, this page’s content was written by either an employee or a paid contractor of Semrush Inc.
+
+Use real-time topic data to create content that resonates and brings results.
+
+Josh is the Co-Founder and CTO of Exploding Topics. Josh has led Exploding Topics product development from the first line of co...
+
+Original Exploding Topics survey data explores public sentiment on AI Overviews and AI-generated content, highlighting trust, skepticism, and shifting content consumption habits.
+
+Learn everything you need to know about vibe marketing and the best tools available to implement this strategy into your company.
+
+Discover the top 8 AI search engines of 2025. Compare their strengths, pricing, and performance to find the tools disrupting the search industry.
+
+Our regularly-updated list of popular and trending Google search terms.
+
+25 private companies with massive growth in terms of users, revenue, and search interest.

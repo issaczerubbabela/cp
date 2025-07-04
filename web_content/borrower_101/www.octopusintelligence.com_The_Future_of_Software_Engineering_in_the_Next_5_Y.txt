@@ -1,0 +1,13 @@
+URL: https://www.octopusintelligence.com/the-future-of-software-engineering-in-the-next-5-years-and-beyond/
+Borrower ID: 101
+Search Query: Software Engineer skill obsolescence trend over next 5 years
+Original Title: The Future of Software Engineering in the Next 5 Years
+Original Summary: For the next five years, the software industry should expect enhanced cloud services, allowing software engineers to focus on the most crucial ...
+Page Title: The Future of Software Engineering in the Next 5 Years and beyond
+Content Length: 0 characters
+Scraping Status: low_content
+Date Scraped: 2025-07-04 09:19:41
+================================================================================
+
+Error: None
+Original Summary: For the next five years, the software industry should expect enhanced cloud services, allowing software engineers to focus on the most crucial ...

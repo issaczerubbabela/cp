@@ -1,0 +1,16 @@
+URL: https://assets.bosch.com/media/global/sustainability/reporting_and_data/2024/bosch-sustainability-report-2024.pdf
+Borrower ID: 102
+Search Query: Bosch product relevance in 5 years
+Original Title: Sustainability report 2024
+Original Summary: This was where action was needed, and this is where we focused our efforts: in the space of five years, Bosch succeeded in reducing CO₂ emissions in the ...
+Page Title: 
+Content Length: 0 characters
+Scraping Status: failed
+Date Scraped: 2025-07-04 09:22:43
+================================================================================
+
+Error: Page.goto: net::ERR_ABORTED at https://assets.bosch.com/media/global/sustainability/reporting_and_data/2024/bosch-sustainability-report-2024.pdf
+Call log:
+  - navigating to "https://assets.bosch.com/media/global/sustainability/reporting_and_data/2024/bosch-sustainability-report-2024.pdf", waiting until "networkidle"
+
+Original Summary: This was where action was needed, and this is where we focused our efforts: in the space of five years, Bosch succeeded in reducing CO₂ emissions in the ...

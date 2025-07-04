@@ -1,0 +1,13 @@
+URL: https://pmc.ncbi.nlm.nih.gov/articles/PMC4243514/
+Borrower ID: 102
+Search Query: disease risk in high-pollution zones in Automotive region
+Original Title: Air pollution and health risks due to vehicle traffic - PMC
+Original Summary: Traffic congestion increases vehicle emissions and degrades ambient air quality, and recent studies have shown excess morbidity and mortality for drivers.
+Page Title: Air pollution and health risks due to vehicle traffic - PMC
+Content Length: 0 characters
+Scraping Status: low_content
+Date Scraped: 2025-07-04 09:25:40
+================================================================================
+
+Error: None
+Original Summary: Traffic congestion increases vehicle emissions and degrades ambient air quality, and recent studies have shown excess morbidity and mortality for drivers.

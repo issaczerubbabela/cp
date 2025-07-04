@@ -1,0 +1,16 @@
+URL: https://nca2023.globalchange.gov/chapter/14
+Borrower ID: 101
+Search Query: pollution projection for IT region in 5 years
+Original Title: Air Quality - Fifth National Climate Assessment
+Original Summary: Climate change is projected to worsen air quality in many US regions (medium confidence) , thereby harming human health and increasing premature death (very ...
+Page Title: 
+Content Length: 0 characters
+Scraping Status: failed
+Date Scraped: 2025-07-04 09:15:58
+================================================================================
+
+Error: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://nca2023.globalchange.gov/chapter/14
+Call log:
+  - navigating to "https://nca2023.globalchange.gov/chapter/14", waiting until "networkidle"
+
+Original Summary: Climate change is projected to worsen air quality in many US regions (medium confidence) , thereby harming human health and increasing premature death (very ...

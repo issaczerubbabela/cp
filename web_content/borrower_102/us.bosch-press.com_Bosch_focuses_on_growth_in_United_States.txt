@@ -1,0 +1,141 @@
+URL: https://us.bosch-press.com/pressportal/us/en/press-release-27520.html
+Borrower ID: 102
+Search Query: Bosch product relevance in 5 years
+Original Title: Bosch focuses on growth in United States
+Original Summary: With a normal inflation rate of between 2 and 3 percent, Bosch aims to achieve annual growth of between 6 and 8 percent on average until 2030.
+Page Title: Bosch focuses on growth in United States - Bosch Media Service US
+Content Length: 14135 characters
+Scraping Status: success
+Date Scraped: 2025-07-04 09:23:20
+================================================================================
+
+GEMINI SUMMARY:
+----------------------------------------
+Here's a comprehensive summary of the provided web content, focusing on Bosch's product relevance in the next 5 years (until roughly 2030), particularly with an eye towards loan risk assessment:
+
+**1. Comprehensive Summary (300-500 words)**
+
+The article highlights Bosch's strategic focus on growth in the United States, a key market for achieving its global ambitions. Despite market headwinds, Bosch demonstrated strong growth in North America in 2024, posting a nearly 5% increase in sales, reaching $17.3 billion USD in consolidated sales and $18.6 billion USD in total net sales. The North American region was the largest sales increase globally, emphasizing the region’s, and particularly the U.S. market's, strategic importance to the company. Bosch aims for the North American region to represent 20% of the company’s global sales by 2030, with the U.S. being the majority contributor. This ambition is underpinned by substantial investments in the U.S., including over $2 billion in capital expenditures over the past five years and planned acquisitions worth around $6 billion since 2023.
+
+Bosch's growth is spread across several business sectors. The Mobility sector, its largest, continues to expand, focusing on trends like software-defined vehicles (SDV), advanced driver-assistance systems (ADAS), hybrid technology, and vehicle motion control.  Interestingly, Bosch also remains committed to internal combustion engine (ICE) technology, innovating in this area and maintaining steady sales despite the shift towards electric vehicles.  This "technology-neutral" approach to powertrains provides resilience against fluctuating market trends.  The company actively supports customers with battery electric and hydrogen solutions as well.  Furthermore, the Consumer Goods and Energy and Building Technology sectors also experienced sales increases in North America. However, the Industrial Technology sector saw a decrease in sales for 2024.
+
+A significant initiative involves manufacturing second-generation silicon carbide (SiC) chips in Roseville, California, starting in 2026, representing a $1.9 billion investment. This move positions Bosch to capitalize on the growing demand for semiconductors in automotive and other industries.  The company is also expanding its ADAS expertise beyond passenger cars, exemplified by a contract with SEPTA in Philadelphia to install tram forward collision warning systems. This demonstrates a diversified approach to ADAS applications.  Bosch's commitment to the U.S. market is further highlighted by its increased marketing efforts, including a major advertising campaign. This campaign aims to increase brand awareness and drive sales across its consumer goods portfolio. In the residential and light commercial building space, Bosch plans to acquire HVAC solutions businesses such as York and Coleman from Johnson Controls, expecting the acquisition to close in 2025.
+
+Despite its ambitious Strategy 2030, the Bosch Group reported a slight decrease in global sales revenue in 2024, reflecting a challenging market environment. However, their commitment to the U.S. market remains strong, and their investment strategy signals confidence in future growth.  This demonstrates their resilience and ability to adapt to changing environments.
+
+**2. Key Facts and Statistics Relevant to Loan Risk Assessment**
+
+*   **Sales Growth:** Nearly 5% sales growth in North America in 2024.  Positive indicator.
+*   **Consolidated Sales (2024):** $17.3 billion USD in North America. Size provides stability.
+*   **Total Net Sales (2024):** $18.6 billion USD in North America.
+*   **Investment in U.S. (Past 5 Years):** Over $2 billion in capital expenditures. Commitment and reinvestment.
+*   **Planned U.S. Acquisitions:** Around $6 billion since 2023. Expansion plans.
+*   **Target for North America by 2030:** 20% of global sales. Aspirational goal, shows growth focus.
+*   **SiC Chip Investment:** $1.9 billion investment in Roseville, California (to begin in 2026). Long-term play in key technology.
+*   **Global Sales (2024):** 90.3 billion euros, a 1.4% decrease. Important to note global performance vs. North America.
+*   **Mobility Business Sales (2024):** $10.7 billion USD in sales to third parties in North America.
+*   **Consumer Goods Sales (2024):** $3.4 billion USD in sales in North America.
+*   **Energy and Building Technology Sales (2024):** $1.9 billion USD in sales in North America.
+*   **Industrial Technology Sales (2024):** $1.3 billion USD in sales in North America.
+
+**3. Important Trends or Predictions Mentioned**
+
+*   **Growth in SDV (Software-Defined Vehicle) and ADAS:** Bosch is heavily investing in these areas, indicating a belief in their future importance. This is vital for loan assessment because it means they are well placed to sell into a growing market.
+*   **Continued Relevance of ICE Technology:** Bosch expects ICE-related technology to remain relevant, particularly in hybrid vehicles, offering a buffer against rapid EV adoption. This means there will be a source of steady income.
+*   **Expansion of ADAS Beyond Passenger Cars:** The SEPTA contract demonstrates Bosch's strategy to diversify ADAS applications beyond the traditional automotive sector. They are expanding into new areas and new customer types.
+*   **SiC Chips for Automotive:** Launching SiC production in 2026, aligns with the growing demand for semiconductors in the automotive industry. This product has high growth potential.
+*   **HVAC Solutions Expansion:** Expansion into the residential and light commercial HVAC market with the proposed acquisition, diversifying the company's business areas.
+
+**4. Specific Company or Industry Insights**
+
+*   **Technology-Neutral Approach:** Bosch's focus on both ICE and EV technologies shows a pragmatic and adaptable strategy. They are preparing for any technology changes, and can adapt their technology as the market adapts.
+*   **Vertical Integration in ADAS:** Developing and manufacturing core ADAS components (radar sensors, chips) in-house provides a competitive advantage. By having this technology in-house, they can control production and be at the forefront of the technology.
+*   **U.S. Manufacturing Footprint:**  Bosch's significant manufacturing presence in the U.S. (15+ sites) suggests a commitment to local production and job creation.
+*   **Global Perspective:** While the article focuses on the U.S., it acknowledges the global context and the need for regional balance.
+
+**5. Financial Data or Forecasts (For Loan Risk Assessment)**
+
+*   **Targeted Annual Growth:** Bosch aims for annual growth of between 6 and 8 percent on average until 2030 (as per the original article summary - which is crucial context). This shows their expected sales growth.
+*   **North America Target:** Bosch aims for the North American region to represent 20 percent of the company’s global sales by 2030. Demonstrates their growth focus on a strategic and successful region.
+*   **2024 Global Sales Decrease:** Global sales revenue decreased by 1.4 percent in 2024. This shows a global challenge.
+*   **Key Loan Risk Assessments:**
+
+    *   **Overall Financial Health:** While North America is doing well, the overall global picture needs to be assessed. The decrease in sales is not necessarily cause for concern. But lenders need to watch and see what the trend is year over year.
+    *   **Technology Shift Risk:** The technology-neutral approach mitigates the risk related to the shift to EV vehicles and the ICE market going down.
+    *   **Acquisition Integration Risk:** The planned acquisitions represent a potential risk if integration is not successful.
+    *   **Global Economic Headwinds:** Any global economic slowdown could impact Bosch's overall financial performance.
+
+In summary, based on the provided information, Bosch appears to be a relatively stable company with a clear strategy for growth in the U.S. market. Their diversified business portfolio, commitment to innovation, and significant investments in U.S. manufacturing suggest a positive outlook for the next five years, however careful and prudent due diligence is required. Loan risk assessment should consider both the strong U.S. performance and the overall global context, paying close attention to the successful integration of acquisitions and potential impacts of global economic conditions.
+
+FULL CONTENT:
+----------------------------------------
+Detroit – Despite market headwinds, Bosch posted sales growth in the North American market of nearly five percent increase year-over-year in 2024. The company posted consolidated sales of $17.3 billion USD (16 billion euros) and achieved total net sales of $18.6 billion USD including sales of non-consolidated companies and internal deliveries to affiliated companies. The North American region achieved the largest sales increase globally for the Bosch Group in 2024, emphasizing the company’s focus on the region and particularly the U.S. market as part of achieving regional balance globally.
+
+“We are growing our North American – and specifically our U.S. business – rapidly,” said Stefan Hartung, chairman of Bosch. “By 2030 our ambition is for the North American region to represent 20 percent of the company’s global sales, with the U.S. representing the majority.”
+
+Over the past five years, Bosch has invested more than $2 billion in capital expenditures in the United States. This represents more than 75 percent of the company’s capital expenditures in the North American region over that time. Additionally, since 2023 the company has announced plans to invest around $6 billion in U.S.-based acquisitions.
+
+“Bosch is investing to grow in the U.S. market,” said Paul Thomas, president of Bosch in North America and president of Bosch Mobility Americas. “We have specifically developed regionally relevant products and solutions for this market. We see opportunities to increase our market share and achieve profitable growth across our portfolio.”
+
+Bosch has been in the United States since 1906 and will celebrate its 120-year anniversary in the U.S. in 2026. Today the company employs more than 20,000 associates and currently has 15+ manufacturing sites in the United States. Both number of associates and number of U.S. manufacturing sites are expected to grow in 2025 as a major planned acquisition is closed.
+
+“We recognize the economic importance of the U.S. market, including its resilience and innovation leadership,” said Stefan Hartung, chairman of Bosch. “While our goal is to increase regional balance through investment and growth, we also need a favorable and stable trade environment.”
+
+Growth in North America
+
+For the 2024 business year, Bosch posted sales increases in three of its four business sectors in the North American portfolio.
+
+The Mobility business in North America increased to $10.7 billion USD in sales to third parties for 2024 despite market challenges.
+In the Consumer Goods business sector, the North American region posted an increase to $3.4 billion USD in sales.
+In Energy and Building Technology, sales in North America increased to $1.9 billion USD.
+For the Industrial Technology business sector, the North American region decreased to $1.3 billion USD in sales for 2024.
+
+Continued support of ICE, growth in SDV, ADAS, vehicle motion and hybrid
+
+In its largest business sector, mobility, Bosch continues to expand its product portfolio matched to the major trends in mobility in the U.S. The company continues to invest in and book customer wins related to technologies supporting regional needs such as software-defined vehicle (SDV), advanced-driver assistance systems (ADAS), hybrid technology, vehicle motion control and more.
+
+In the area of powertrain, the company’s broad portfolio of technology-neutral powertrain solutions has benefitted it as market changes have come at a different pace than projected. Bosch has continued to innovate on internal combustion engine (ICE) technology, including technology to support hybrids. Bosch sales of ICE-related technology in North America have remained steady, largely because the company has maintained this revenue while production of ICE vehicles decreases and BEV vehicles increases. At the same time, the company also supports customers with battery electric and hydrogen solutions, where Bosch provides both fuel cell and hydrogen combustion technology.
+
+“Our goal is to provide manufacturers and ultimately the U.S. consumer with affordable options in the market,” Paul Thomas said. “Across the Bosch Mobility portfolio, our technology leadership is realized through the experienced U.S. mobility manufacturing workforce at nine locations in the U.S. in California, Indiana, Kentucky, Michigan, Minnesota and South Carolina.”
+
+Bosch continues to progress on plans to manufacture the second-generation silicon carbide (SiC) chips on 200mm wafers in Roseville, California beginning in 2026. The transformation of the Roseville facility, which the company acquired in 2023, represents an up to $1.9 billion investment. Since the acquisition of the site, Bosch has retained nearly all 250 associates during the transformation process as it prepares for the 2026 launch of SiC production. The company has provided advanced training where the Roseville team learns from other sites within the Bosch global manufacturing network.
+
+A major driver of growth in 2024 for Bosch Mobility in North America and particularly the U.S. was the Cross-Domain Computing Solutions division that delivers solutions such as ADAS and vehicle computers to support an increasingly software-defined focus from U.S. automakers. To facilitate rapid development in ADAS – particularly Level 2 and Level 2++ – Bosch has expanded its software and hardware for assisted and automated driving.
+
+For the new generation of its radar sensor, Bosch has developed and manufactured all core elements in-house, including the computing chip (SoC). The new Bosch radar sensor uses “RF CMOS technology,” which enables the efficient integration of high-frequency and digital circuits on a single chip. The structure size of the transistors of only 22 nanometers makes the chip particularly powerful and efficient despite its small footprint. Bosch is the first Tier 1 supplier on the market to introduce this technology in serial production.
+
+Bosch continues to expand its ADAS expertise beyond passenger cars. In the U.S., it just signed a major award with the Southeastern Pennsylvania Transportation Authority (SEPTA) to install the tram forward collision warning system from Bosch across the entire SETPA fleet through a retrofit to existing trams. SEPTA serves a region of nearly four million people in Philadelphia and its surrounding counties. This expansion follows a successful pilot program that began in 2022 to initially test out the collision avoidance technology in four SEPTA tram vehicles.
+
+Growth initiatives beyond Mobility
+Outside of its Mobility business sector, Bosch growth initiatives in the U.S. are also evident.
+
+In February, Bosch was a first-time advertiser at the Big Game, where it debuted the new “The More You Bosch, The More You Feel Like A Bosch” campaign featuring power tools and home appliances from the company’s Consumer Goods business sector. The Big Game presence marked the beginning of a multi-year campaign that will feature seven product ads and a full lineup of ‘Bosches’ who represent the physical manifestations of the confidence, strength and power you feel with Bosch products. The company is already seeing gains from the U.S.-focused brand campaign.
+
+In 2024, the company announced plans to acquire the HVAC solutions business for residential and light commercial buildings from Johnson Controls. The product portfolio covers the entire spectrum of HVAC solutions for residential and light commercial buildings, and includes well-known brands such as York and Coleman in the U.S. The proposed acquisition is expected to close during 2025.
+
+Bosch Group: outlook for 2025 and strategic direction
+
+The Bosch Group is continuing with its ambitious Strategy 2030 to strengthen its competitive position, even though the market environment was a significant brake on growth last year: at 90.3 billion euros, the supplier of technology and services generated 1.4 percent less sales revenue in 2024 than in the previous year, or 0.5 percent less after adjusting for exchange-rate effects. The EBIT margin from operations was 3.5 percent. “In the 2024 fiscal year, we achieved important improvements in terms of costs, structures, and portfolio,” said Stefan Hartung, chairman of the board of management of Robert Bosch GmbH. With a normal inflation rate of between 2 and 3 percent, Bosch aims to achieve annual growth of between 6 and 8 percent on average until 2030. In the first quarter of the year, Bosch increased its sales revenue by 4 percent compared to the previous year. The Bosch Group is still aiming for a target margin of 7 percent in 2026, viewing this as an extremely challenging task given current challenges. To remain successful amid changing markets and technologies, Bosch will continue to work intensively on costs and structures and focus on profitable business areas. “As a global technology leader, we are fully committed to boldly playing to our strengths, such as our high level of innovativeness,” Hartung said.
+
+The company also sees its collaboration with startups as a major stimulus for growth. As one of Europe’s biggest corporate venture-capital investors, the Bosch Group announced a new fund for venture capital: the subsidiary Bosch Ventures is providing around $270 million USD. Bosch expects developments in its core Mobility business sector, particularly in electromobility, hydrogen, and software-defined vehicles, to be a major stimulus for growth. In the Consumer Goods sector, Bosch sees significant growth opportunities arising from new customer requirements. The focus for power tools is on expanding the range of cordless devices, and Bosch Siemens Hausgeräte is launching a fridge-freezer this year that is the first Matter-capable home appliance on the market. In its Industrial Technology business, Bosch expects order intake to stabilize and is still pursuing the goal of achieving sales revenue of around 1 billion euros by the beginning of the next decade with software and digital services such as the Hydraulic Hub. Additionally, factory automation is set to focus on growth areas such as battery, semiconductor, and consumer goods production. In the Energy and Building Technology sector, Bosch expects the planned acquisition of the heating, ventilation, and air-conditioning (HVAC) business of Johnson Controls and Hitachi to deliver significant growth. Despite all the global turbulence, climate action remains a core concern for Bosch. The company is underlining this with new scope 3 targets, which aim to bring down carbon emissions outside Bosch’s direct sphere of influence, such as those from product use, even further by 2030. Irrespective of its growth targets, Bosch wants to double its corresponding CO2 reduction target by then from 15 to 30 percent compared to 2018. “Climate change won’t disappear just because the global economy currently has other challenges to deal with,” Hartung cautions. “Sustainability remains a priority for Bosch.”
+
+#LikeABosch, Bosch Group, Business/Economy
+
+Press photos and infocharts are available on the Bosch Media Service at us.bosch-press.com.
+
+Tim Wieland – Bosch in North America
+Tim.wieland@us.bosch.com
+
+Megan Bonelli – Bosch Mobility
+Megan.bonelli@us.bosch.com
+
+
+Having established a presence in North America in 1906, today the Bosch Group employs more than 41,000 associates in more than 100 locations in the North American region (as of Dec. 31, 2024). In 2024, Bosch generated consolidated sales of $17.3 billion in the U.S., Mexico and Canada. For more information visit www.bosch.us, www.bosch.mx and www.bosch.ca.
+
+The Bosch Group is a leading global supplier of technology and services. It employs roughly 418,000 associates worldwide (as of December 31, 2024). The company generated sales of 90.3 billion euros ($97.7 billion USD) in 2024. Its operations are divided into four business sectors: Mobility, Industrial Technology, Consumer Goods, and Energy and Building Technology. With its business activities, the company aims to use technology to help shape universal trends such as automation, electrification, digitalization, connectivity, and an orientation to sustainability. In this context, Bosch’s broad diversification across regions and industries strengthens its innovativeness and robustness. Bosch uses its proven expertise in sensor technology, software, and services to offer customers cross-domain solutions from a single source. It also applies its expertise in connectivity and artificial intelligence in order to develop and manufacture user-friendly, sustainable products. With technology that is “Invented for life,” Bosch wants to help improve quality of life and conserve natural resources. The Bosch Group comprises Robert Bosch GmbH and its roughly 490 subsidiary and regional companies in over 60 countries. Including sales and service partners, Bosch’s global manufacturing, engineering, and sales network covers nearly every country in the world. Bosch’s innovative strength is key to the company’s further development. At 136 locations across the globe, Bosch employs some 87,000 associates in research and development.
+
+The company was set up in Stuttgart in 1886 by Robert Bosch (1861–1942) as “Workshop for Precision Mechanics and Electrical Engineering.” The special ownership structure of Robert Bosch GmbH guarantees the entrepreneurial freedom of the Bosch Group, making it possible for the company to plan over the long term and to undertake significant upfront investments in the safeguarding of its future. Ninety-four percent of the share capital of Robert Bosch GmbH is held by Robert Bosch Stiftung GmbH, a limited liability company with a charitable purpose. The remaining shares are held by Robert Bosch GmbH and by a company owned by the Bosch family. The majority of voting rights are held by Robert Bosch Industrietreuhand KG. It is entrusted with the task of safeguarding the company’s long-term existence and in particular its financial independence – in line with the mission handed down in the will of the company’s founder, Robert Bosch.
+
+Additional information is available online at www.bosch.com, www.bosch-press.com.
+
+Exchange rate: 1 EUR = 1.0823

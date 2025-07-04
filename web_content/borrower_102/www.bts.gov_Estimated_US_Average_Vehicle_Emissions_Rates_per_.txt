@@ -1,0 +1,16 @@
+URL: https://www.bts.gov/content/estimated-national-average-vehicle-emissions-rates-vehicle-vehicle-type-using-gasoline-and
+Borrower ID: 102
+Search Query: pollution projection for Automotive region in 5 years
+Original Title: Estimated U.S. Average Vehicle Emissions Rates per ...
+Original Summary: MOVES4 includes updates to historical data and methods as well as updates to future year projections and thus provides the current best estimates of emissions ...
+Page Title: 
+Content Length: 0 characters
+Scraping Status: failed
+Date Scraped: 2025-07-04 09:31:06
+================================================================================
+
+Error: Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://www.bts.gov/content/estimated-national-average-vehicle-emissions-rates-vehicle-vehicle-type-using-gasoline-and
+Call log:
+  - navigating to "https://www.bts.gov/content/estimated-national-average-vehicle-emissions-rates-vehicle-vehicle-type-using-gasoline-and", waiting until "networkidle"
+
+Original Summary: MOVES4 includes updates to historical data and methods as well as updates to future year projections and thus provides the current best estimates of emissions ...

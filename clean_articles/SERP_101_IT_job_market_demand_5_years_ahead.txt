@@ -1,0 +1,18 @@
+Search Query: IT job market demand 5 years ahead
+Search Engine: Google (via SerpAPI)
+Date: 2025-07-04 08:54:42
+Borrower ID: 101
+================================================================================
+
+1. Tech Job Market Trends: What to Expect in the Next 5 Years
+   URL: https://tietalent.com/en/blog/165/tech-job-market-trends-what-to-expect-in-the-next-5-years
+   Summary: The tech industry is expected to create 69 million new jobs by 2027. Roles in AI, data science, and cybersecurity are among the fastest-growing.
+
+2. The Future of Jobs Report 2025 | World Economic Forum
+   URL: https://www.weforum.org/publications/the-future-of-jobs-report-2025/digest/
+   Summary: Learn how global trends like tech innovation and green transition will transform jobs, skills, and workforce strategies in The Future of ...
+
+3. The Future of IT Jobs: Looking Ahead 10 Years
+   URL: https://www.spiceworks.com/tech/it-careers-skills/articles/future-of-it-jobs-which-tech-roles-will-be-in-demand-in-10-years/
+   Summary: Peter Tsai looks at recent data from the US Bureau of Labor Statistics to determine what jobs are expected to stay in demand over the next decade.
+

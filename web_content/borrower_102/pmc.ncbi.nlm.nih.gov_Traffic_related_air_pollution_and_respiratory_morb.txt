@@ -1,0 +1,13 @@
+URL: https://pmc.ncbi.nlm.nih.gov/articles/PMC3213707/
+Borrower ID: 102
+Search Query: disease risk in high-pollution zones in Automotive region
+Original Title: Traffic related air pollution and respiratory morbidity - PMC
+Original Summary: Exposure to high levels of air pollution from motor vehicles is frequently associated with increased morbidity from cardiovascular diseases, lung cancer and ...
+Page Title: Traffic related air pollution and respiratory morbidity - PMC
+Content Length: 0 characters
+Scraping Status: low_content
+Date Scraped: 2025-07-04 09:25:28
+================================================================================
+
+Error: None
+Original Summary: Exposure to high levels of air pollution from motor vehicles is frequently associated with increased morbidity from cardiovascular diseases, lung cancer and ...

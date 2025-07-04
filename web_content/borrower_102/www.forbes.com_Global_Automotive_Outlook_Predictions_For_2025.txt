@@ -1,0 +1,16 @@
+URL: https://www.forbes.com/sites/sarwantsingh/2025/01/13/global-automotive-outlook-predictions-for-2025/
+Borrower ID: 102
+Search Query: Automotive recession or growth prediction 5 years
+Original Title: Global Automotive Outlook: Predictions For 2025
+Original Summary: The article predicts key trends in 2025 in the Automotive Industry from slow down in EV sales to growth of new business models like EV multi ...
+Page Title: 
+Content Length: 0 characters
+Scraping Status: failed
+Date Scraped: 2025-07-04 09:21:24
+================================================================================
+
+Error: Page.goto: Timeout 30000ms exceeded.
+Call log:
+  - navigating to "https://www.forbes.com/sites/sarwantsingh/2025/01/13/global-automotive-outlook-predictions-for-2025/", waiting until "networkidle"
+
+Original Summary: The article predicts key trends in 2025 in the Automotive Industry from slow down in EV sales to growth of new business models like EV multi ...

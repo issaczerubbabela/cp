@@ -1,0 +1,13 @@
+URL: https://brandfinance.com/insights/infosys-2025
+Borrower ID: 101
+Search Query: Infosys product relevance in 5 years
+Original Title: Infosys: Building a brand for the future
+Original Summary: Infosys' brand value has increased by 15% to USD16.3 billion, making it the fastest-growing IT Services brand over the past 5 years.
+Page Title: Infosys: Building a brand for the future | Brand Finance
+Content Length: 0 characters
+Scraping Status: low_content
+Date Scraped: 2025-07-04 09:12:03
+================================================================================
+
+Error: None
+Original Summary: Infosys' brand value has increased by 15% to USD16.3 billion, making it the fastest-growing IT Services brand over the past 5 years.

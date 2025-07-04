@@ -1,0 +1,232 @@
+URL: https://www.epa.gov/climateimpacts/climate-change-impacts-air-quality
+Borrower ID: 101
+Search Query: pollution projection for IT region in 5 years
+Original Title: Climate Change Impacts on Air Quality | US EPA
+Original Summary: Climate change is expected to worsen harmful ground-level ozone, increase people's exposure to allergens like pollen, and contribute to worsening air quality.
+Page Title: Climate Change Impacts on Air Quality | US EPA
+Content Length: 15292 characters
+Scraping Status: success
+Date Scraped: 2025-07-04 09:16:22
+================================================================================
+
+GEMINI SUMMARY:
+----------------------------------------
+Here's a comprehensive summary of the provided web content, focusing on pollution projections and their relevance to loan risk assessment, particularly concerning IT regions within a 5-year timeframe.
+
+**1. Comprehensive Summary**
+
+The U.S. EPA document emphasizes the detrimental impact of climate change on air quality, projecting a worsening trend across many regions of the United States. This deterioration manifests in several key areas: increased ground-level ozone, heightened exposure to allergens like pollen, increased particulate matter (PM), indoor air pollutant proliferation, and the growing frequency and intensity of wildfires. These factors collectively contribute to adverse health outcomes, economic disruptions, and environmental damage.
+
+Rising temperatures, driven by climate change, are identified as a major driver for increased ground-level ozone formation. The document highlights that the warmest years on record have occurred recently, with temperatures expected to continue rising. The increasing frequency and severity of droughts, exacerbated by climate change, contribute to elevated levels of particulate matter through increased dust storms. Furthermore, extreme weather events like floods and storm surges lead to damp indoor environments, promoting mold and bacterial growth, and consequently, increased indoor air pollution. The document also emphasizes the role of wildfires and wildfire smoke in lowering air quality and harming human health.
+
+The document also talks about airborne allergens like pollen which may be more prevelant in the future and cause allergies or other health conditions.
+
+The EPA notes that these climate-driven air quality changes are not uniform and will vary by region. It stresses the importance of mitigating actions to reduce air pollution and greenhouse gas emissions, suggesting that regulatory initiatives, partnerships, and individual actions can play a crucial role. Cleaner air is presented as being closely linked to a healthy economy. The document states that cleaner air is linked to productivity, but also mentions that vulnerable populations are more exposed to air pollutants. The EPA highlights the role of renewable energy in reducing pollution and greenhouse gas emissions.
+
+**Relevance to Loan Risk Assessment (Focus on IT Regions):**
+
+The projected air quality decline presents risks to various sectors, including the IT industry. Increased rates of respiratory illness, heart disease, and allergies among the IT workforce can lead to reduced productivity, increased absenteeism, and higher healthcare costs. These factors can negatively impact the financial performance of IT companies, increasing the risk of loan defaults.
+
+Furthermore, data centers, which are crucial for IT operations, are vulnerable to extreme weather events and wildfires, potentially leading to service disruptions and financial losses. Companies located in areas with high climate-related air pollution may face challenges in attracting and retaining skilled workers, thus affecting their growth prospects.
+
+**2. Key Facts and Statistics Relevant to the Search Query (IT Region Focus):**
+
+*   **Regional Variation:** The impact of climate change on air quality varies considerably by region. While the document does not specify which regions may face the most pollution, it does note that nearly 102 million people lived in areas with poor air quality in 2021. Regional air quality trends from agencies such as the EPA and the National Climate Assessment (NCA) must be analyzed specifically to identify IT hubs with poor air quality.
+*   **Economic Impact:** The document highlights that in 2020, reductions in air pollution prevented many deaths, heart attacks, and emergency room visits. Poor air quality will lead to negative health outcomes and more emergency room visits.
+*   **IT Sector Vulnerability:** Data centers and other IT infrastructure are sensitive to environmental conditions. Increased occurrences of extreme weather, like wildfires and floods, can disrupt operations, leading to substantial financial losses.
+*   **Workforce Health:** Higher rates of respiratory illnesses among IT employees can lead to lower productivity and absenteeism, which negatively impacts project timelines and profitability.
+*   **Talent Acquisition and Retention:** Areas with poor air quality may become less attractive to skilled IT professionals, impacting companies' ability to recruit and retain talent.
+
+**3. Important Trends or Predictions Mentioned:**
+
+*   **Temperature Increase:** Temperatures are expected to continue rising, exacerbating ground-level ozone formation.
+*   **Prolonged Pollen Season:** Climate change may cause an earlier and longer pollen season.
+*   **Increased Particulate Matter:** Droughts and wildfires are expected to increase particulate matter levels, particularly in the U.S. Southwest, but smoke can spread to other regions.
+*   **More Frequent Wildfires:** Climate change is already contributing to more frequent and intense wildfires, impacting air quality over large areas.
+*   **Increase in Indoor Pollutants:** Extreme weather, such as flooding, can lead to damp indoor environments, fostering mold growth and other pollutants.
+
+**4. Specific Company or Industry Insights:**
+
+*   The document doesn't provide information about a specific company or industry.
+*   IT companies that build or manage data centers may need to upgrade systems to withstand increasing environmental changes.
+
+**5. Financial Data or Forecasts:**
+
+*   The document does not provide precise financial forecasts for the IT sector or any other specific industry.
+*   It does note that reduced air pollution prevented 200,000 heart attacks in 2020 which is economically significant.
+
+**Loan Risk Assessment Implications (for IT Region in 5 Years):**
+
+Based on this analysis, lending institutions should consider the following risk factors when assessing loan applications from IT companies located in regions projected to experience worsening air quality:
+
+*   **Increased Operational Costs:** Account for potential increases in healthcare costs for employees, costs associated with mitigating air pollution within office environments (e.g., advanced air filtration systems), and potential costs for backup power and cooling systems for data centers to withstand extreme weather events.
+*   **Supply Chain Disruptions:** Factor in the possibility of supply chain disruptions due to climate-related events impacting manufacturers and suppliers in other regions.
+*   **Reduced Productivity:** Acknowledge that the reduced health of IT professionals can significantly affect productivity levels.
+*   **Data Center Vulnerability:** Carefully assess the resilience of data centers to extreme weather and wildfire events. Factor in the costs of relocating or reinforcing facilities.
+*   **Talent Retention Challenges:** Factor in the impact on talent acquisition and retention within a potentially less-desirable environment. Higher compensation or relocation costs may be required to attract and retain talent.
+*   **Investment in Green Technology:** Companies investing in green technologies to mitigate their environmental impact may be less risky, signaling a proactive approach to sustainability.
+
+By integrating these climate-related air quality considerations into their loan risk assessments, lenders can make more informed decisions and better protect their investments in the IT sector. It is essential to couple this broad assessment with granular regional forecasts and company-specific mitigation strategies to refine risk evaluations.
+
+FULL CONTENT:
+----------------------------------------
+Climate Change Impacts on Air Quality
+
+Clean air is critical to human health. It is also important for the health of vegetation and crops. It contributes to people’s enjoyment of scenic areas, like national parks and wilderness areas.
+
+The effects of climate change on air quality will continue to vary by region. In many areas of the United States, climate change is expected to worsen harmful ground-level ozone, increase people’s exposure to allergens like pollen, and contribute to worsening air quality. It can also decrease visibility so that it is harder to see into the distance. Changes in the amount of outdoor air pollutants can also affect indoor air quality.
+
+
+
+Increased pollen. Rising temperatures and higher carbon dioxide concentrations related to climate change can lengthen the pollen season and increase the amount of pollen produced by plants.
+
+Increased ozone. The 10 warmest years on record have occurred within the past decade (2014-2023), with record highs across the globe in 2023. Temperatures are expected to continue rising, and hot, sunny days can increase the amount of ozone at ground level.
+
+Increased Particulate Matter. In 2021, the U.S. Southwest experienced one of the most severe long-term droughts of the past 1,200 years. Dust from droughts can increase particulate matter and cause air quality issues.
+
+Increased indoor pollutants. Extreme weather, such as flooding and storm surge, can damage buildings and allow water or moisture inside. Damp indoor conditions can lead to the growth of harmful pollutants, such as mold and bacteria.
+
+Increased wildfires. In 2020, wildfires burned over 10 million acres of land in the United States, the highest-ever amount on record. Wildfire smoke lowers air quality and harms human health.
+
+Increased pollen. Rising temperatures and higher carbon dioxide concentrations related to climate change can lengthen the pollen season and increase the amount of pollen produced by plants.
+
+Increased ozone. The 10 warmest years on record have occurred within the past decade (2014-2023), with record highs across the globe in 2023. Temperatures are expected to continue rising, and hot, sunny days can increase the amount of ozone at ground level.
+
+Climate impacts on air quality will depend on what additional measures are taken to reduce air pollution. Regulatory initiatives, partnership programs, and individual actions can all help reduce air pollutants that harm human health, as well as greenhouse gases that contribute to climate change.
+
+Explore the sections on this page to learn more about climate impacts on air quality:
+
+Top Climate Impacts on Air Quality
+Air Quality and the Economy
+The Link Between Air Quality and Climate Change
+
+Climate change can affect air quality, and certain air pollutants can affect climate change. For example, hot sunny days associated with a warming climate can increase ground-level ozone in some areas. Ground-level ozone is also a greenhouse gas that contributes to climate change by trapping heat in the atmosphere.
+
+Read more about greenhouse gases and the climate effects of certain air pollutants on the Basics of Climate Change page.
+
+Top Climate Impacts on Air Quality
+
+Climate change may affect air quality at both local and regional scales. Three key impacts are described in this section.
+
+1. Outdoor and Indoor Air Pollution
+Some people have allergic reactions to mold. These can include sneezing, red eyes, and a skin rash.
+
+Nearly 102 million people in the United States live in areas with poor air quality in 2021. In many regions of the United States, climate-driven changes in weather conditions, including temperature and precipitation, are expected to increase ground-level ozone and particulate matter (such as windblown dust from droughts or smoke from wildfires). These changes worsen existing air pollution. Exposure to these pollutants can lead to or worsen health problems, such as respiratory and heart diseases.
+
+Climate change can also affect indoor air quality. Increases in outside air pollutants, such as ozone and particulate matter, could lead to higher indoor exposures. These pollutants can enter a building in many ways, including through open doors and windows and ventilation systems.
+
+, dust mites, bacteria, and other indoor pollutants may increase as climate change-related precipitation and storms increase. For example, flood damage can create a damp indoor environment, leading to mold growth. Indoor air pollutants have been linked to heart disease, respiratory diseases such as asthma, and cancer.
+
+Air pollution may also damage crops, plants, and forests. For example, when plants absorb large amounts of ground-level ozone, they experience reduced photosynthesis, slower growth, and higher sensitivity to diseases.
+
+Exposure to wildfire smoke increases the risk of respiratory diseases.
+
+Climate change has already led to more frequent wildfires and a longer wildfire season. Wildfire smoke pollutes the air, impairing visibility and disrupting outdoor activities. It can also spread hundreds of miles downwind to other regions.
+
+Exposure to wildfire smoke can worsen respiratory illnesses, such as asthma, chronic obstructive pulmonary disease (COPD), and bronchitis. Wildfire smoke exposures have also been linked to premature births.
+
+3. Airborne Allergens
+
+A changing climate is expected to cause earlier and longer springs and summers, warmer temperatures, precipitation changes, and higher carbon dioxide concentrations. All of these changes can increase people’s exposure to pollen and other airborne allergens, which in turn can lead to more allergy-related illnesses, such as asthma and hay fever.
+
+For more specific examples of climate change impacts in your region, please see the National Climate Assessment.
+
+Air Quality and the Economy
+Certain population groups are more likely to live near power plants that emit air pollutants.
+
+Cleaner air is closely linked to a healthy economy. For example, good air quality improves Americans’ health and productivity. In 2020 alone, reductions in air pollution prevented more than 230,000 premature deaths, 200,000 heart attacks, 120,000 emergency room visits, and 17 million lost workdays. Working toward cleaner air also creates jobs, advances technologies, and produces billions of dollars for the United States in revenues and exported goods and services.
+
+
+Many socially vulnerable groups live in industrial or urban areas with high levels of air pollution., In fact, Black and African Americans individuals are 34% more likely than non-Blacks to live in areas with the highest projected increases in childhood asthma due to climate-related changes in particulate matter. Some people are also more vulnerable to the health impacts of air pollution because they have chronic medical conditions. For example, certain communities of color, low-income groups, Indigenous populations, and immigrant groups have higher rates of heart disease, asthma, and COPD.,
+
+Certain populations may also be more vulnerable to air quality impacts because they work outside. For example, farm workers, firefighters, roofers, and construction workers are among those workers whom scientists expect will be affected by air quality impacts from climate change.
+
+Both rural and urban low-income populations may live in older buildings that are not well sealed, increasing their exposure to outdoor allergens and pollutants. Older buildings or buildings in poor condition may also take more damage during extreme weather, such as storms and floods. This can lead to damp indoor environments prone to mold, bacteria, and other indoor air contaminants.
+
+In 2020, more than one-fifth of the United States’ annual energy generation came from renewable energy (green power) sources.
+
+We can reduce climate and air quality impacts in many ways, including the following:
+
+Switch to green power from renewable energy sources like solar, wind, and hydropower to reduce both air pollution and greenhouse gas emissions.
+Reduce air pollution from vehicles. Walking, biking, and taking public transit among other actions can reduce emissions from transportation. These choices can also provide other benefits, such as safer streets.
+Improve air quality at ports. Communities situated near ports—which often include low-income and minority populations—are at a higher risk of air pollution exposure. Communities and stakeholders can work with EPA’s Ports Initiative to improve environmental performance and advance clean technologies at ports. This effort helps people living near ports breathe cleaner air. Check out the Community-Port Collaboration Toolkit for ways communities can get involved.
+Develop urban forests. Planting trees, especially in urban areas and along roads or highways, can help improve air quality. Trees also provide other benefits, such as reducing the impact of urban heat islands.
+Prevent wildfires. Pay attention to weather and drought conditions. Avoid activities involving fire or sparks when it’s dry, hot, and windy to help prevent wildfires.
+Reduce your exposure. Use the Air Quality Index (AQI) to guide outdoor activities. When you see that the AQI is unhealthy, take simple steps to reduce your exposure like choosing less intense activities, take more breaks, and reschedule activities to a time when outdoor air quality is better.
+Improve indoor air quality. Reduce or remove sources of indoor air pollutants whenever possible. For example, consider using portable air purifiers or high-efficiency filters in your heating, ventilation, and air conditioning systems.
+Related Climate Indicators
+
+Learn more about some of the key indicators of climate change related to this sector from EPA’s Climate Change Indicators in the United States:
+
+U.S. Greenhouse Gas Emissions
+Atmospheric Concentrations of Greenhouse Gases
+Ragweed Pollen Season
+Fifth National Climate Assessment, Chapter 14: “Air Quality.”
+Air Topics. Describes how air quality can affect your health and how EPA is working to protect air quality.
+AirNow Air Quality Index. Provides daily information on how clean or polluted your outdoor air is, along with associated health impacts.
+Air Quality Resources for Tribes. Gathers Tribal-related resources from across the federal landscape into a single resource. Includes regulatory, policy, planning, guidance, and other materials for tribes to use.
+Centers for Disease Control and Prevention: About Air Quality. Provides information and resources on air quality with additional details about specific respiratory ailments.
+Drought.gov. Shows current drought conditions in the United States and locations of active wildfires. Developed through a multi-agency partnership.
+EPA’s Heart Healthy Toolkit. Provides information on the link between air quality and heart disease, as well as steps individuals can take to protect their health.
+
+West, J.J., et al. (2023). Ch. 14: Air quality. Fifth National Climate Assessment. U.S. Global Change Research Program, Washington, DC, p. 14-5.
+
+West, J.J., et al. (2023). Ch. 14: Air quality. Fifth National Climate Assessment. U.S. Global Change Research Program, Washington, DC, p. 14-5, 14-14.
+
+Nolte, C.G., et al. (2018). Ch. 13: Air quality. In: Impacts, risks, and adaptation in the United States: Fourth national climate assessment, volume II. U.S. Global Change Research Program, Washington, DC, p. 519.
+
+Nolte, C.G., et al. (2018). Ch. 13: Air quality. In: Impacts, risks, and adaptation in the United States: Fourth national climate assessment, volume II. U.S. Global Change Research Program, Washington, DC, p. 518.
+
+West, J.J., et al. (2023). Ch. 14: Air quality. Fifth National Climate Assessment. U.S. Global Change Research Program, Washington, DC, p. 14-5.
+
+West, J.J., et al. (2023). Ch. 14: Air quality. Fifth National Climate Assessment. U.S. Global Change Research Program, Washington, DC, p. 14-5.
+
+Nolte, C.G., et al. (2018). Ch. 13: Air quality. In: Impacts, risks, and adaptation in the United States: Fourth national climate assessment, volume II. U.S. Global Change Research Program, Washington, DC, p. 516.
+
+West, J.J., et al. (2023). Ch. 14: Air quality. Fifth National Climate Assessment. U.S. Global Change Research Program, Washington, DC, p. 14-14.
+
+EPA. (2021). Indoor air quality. Retrieved 3/18/2022.
+
+EPA. (2021). Mold and health. Retrieved 3/18/2022.
+
+West, J.J., et al. (2023). Ch. 14: Air quality. Fifth National Climate Assessment. U.S. Global Change Research Program, Washington, DC, p. 14-5.
+
+EPA. (2022). Ecosystem effects of ozone pollution. Retrieved 3/18/2022.
+
+West, J.J., et al. (2023). Ch. 14: Air quality. Fifth National Climate Assessment. U.S. Global Change Research Program, Washington, DC, p. 14-9.
+
+Nolte, C.G., et al. (2018). Ch. 13: Air quality. In: Impacts, risks, and adaptation in the United States: Fourth national climate assessment, volume II. U.S. Global Change Research Program, Washington, DC, pp. 518–519.
+
+West, J.J., et al. (2023). Ch. 14: Air quality. Fifth National Climate Assessment. U.S. Global Change Research Program, Washington, DC, p. 14-14.
+
+EPA. (2022). The Clean Air Act and the economy. Retrieved 3/18/2022.
+
+West, J.J., et al. (2023). Ch. 14: Air quality. Fifth National Climate Assessment. U.S. Global Change Research Program, Washington, DC, p. 14-11.
+
+EPA. (2022). Research on health effects from air pollution. Retrieved 3/18/2022.
+
+EPA. (2021). Climate change and social vulnerability in the United States: A focus on six impacts. EPA 430-R-21-003, pp. 24—25.
+
+Gamble, J.L., et al. (2016). Ch. 9: Populations of concern. In: The impacts of climate change on human health in the United States: A scientific assessment. U.S. Global Change Research Program, Washington, DC, p. 252.
+
+EPA. (2021). Power plants and neighboring communities. Retrieved 3/18/2022.
+
+Gamble, J.L., et al. (2016). Ch. 9: Populations of concern. In: The impacts of climate change on human health in the United States: A scientific assessment. U.S. Global Change Research Program, Washington, DC, p. 258.
+
+Fann, N., et al. (2016). Ch. 3: Air quality impacts. The impacts of climate change on human health in the United States: A scientific assessment. U.S. Global Change Research Program, Washington, DC, pp. 82–83.
+
+EPA. (2021). Indoor air quality (IAQ). Retrieved 3/18/2022.
+
+EPA. (2024). Power plants and neighboring communities. Retrieved 1/13/2025.
+
+U.S. Energy Information Administration. Renewables became the second-most prevalent U.S. electricity source in 2020. Retrieved 3/18/2022.
+
+Lindsey, R., & L. Dahlman. (2024). Climate change: Global temperature. National Oceanic and Atmospheric Administration. Retrieved 8/19/2024.
+
+Mankin, J.S., et al. (2021). NOAA Drought Task Force report on the 2020–2021 southwestern U.S. drought. National Oceanic and Atmospheric Administration (NOAA) Drought Task Force; NOAA Modeling, Analysis, Predictions and Projections Programs; and National Integrated Drought Information System. Retrieved 5/11/2022.
+
+EPA. (2021). Indoor air quality (IAQ). Retrieved 3/18/2022.
+
+National Centers for Environmental Information. (2024). Annual 2023 wildfires report. Retrieved 8/19/2024.
+
+West, J.J., et al. (2023). Ch. 14: Air quality. Fifth National Climate Assessment. U.S. Global Change Research Program, Washington, DC, p. 14-14.

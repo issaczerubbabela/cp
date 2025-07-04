@@ -1,0 +1,13 @@
+URL: https://bootcamps.cs.cmu.edu/blog/will-ai-replace-software-engineers-reality-check
+Borrower ID: 101
+Search Query: Software Engineer skill obsolescence trend over next 5 years
+Original Title: Will AI Make Software Engineers Obsolete? Here's the Reality
+Original Summary: By 2027, generative AI (GenAI) will create new roles in software engineering and operations, prompting 80% of engineers to upskill, according to ...
+Page Title: Will AI Make Software Engineers Obsolete? Here’s the Reality
+Content Length: 0 characters
+Scraping Status: low_content
+Date Scraped: 2025-07-04 09:19:30
+================================================================================
+
+Error: None
+Original Summary: By 2027, generative AI (GenAI) will create new roles in software engineering and operations, prompting 80% of engineers to upskill, according to ...

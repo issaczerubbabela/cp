@@ -1,0 +1,16 @@
+URL: https://www.forbes.com/sites/hessiejones/2024/09/21/the-automation-takeover-are-software-engineers-becoming-obsolete/
+Borrower ID: 101
+Search Query: Software Engineer automation risk in 5 years
+Original Title: The Automation Takeover: Are Software Engineers ...
+Original Summary: Software developers, on the other hand, have been labelled high AI exposure and low automation risk. While Fateev and Kulkarni in 2023 predicted ...
+Page Title: 
+Content Length: 0 characters
+Scraping Status: failed
+Date Scraped: 2025-07-04 09:18:34
+================================================================================
+
+Error: Page.goto: Timeout 30000ms exceeded.
+Call log:
+  - navigating to "https://www.forbes.com/sites/hessiejones/2024/09/21/the-automation-takeover-are-software-engineers-becoming-obsolete/", waiting until "networkidle"
+
+Original Summary: Software developers, on the other hand, have been labelled high AI exposure and low automation risk. While Fateev and Kulkarni in 2023 predicted ...

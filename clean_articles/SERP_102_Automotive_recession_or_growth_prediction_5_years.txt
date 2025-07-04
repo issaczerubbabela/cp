@@ -1,0 +1,18 @@
+Search Query: Automotive recession or growth prediction 5 years
+Search Engine: Google (via SerpAPI)
+Date: 2025-07-04 08:55:36
+Borrower ID: 102
+================================================================================
+
+1. Global Automotive Outlook: Predictions For 2025
+   URL: https://www.forbes.com/sites/sarwantsingh/2025/01/13/global-automotive-outlook-predictions-for-2025/
+   Summary: The article predicts key trends in 2025 in the Automotive Industry from slow down in EV sales to growth of new business models like EV multi ...
+
+2. 2025 Auto Sales Forecast: 89.6M Vehicle Sales Worldwide
+   URL: https://www.spglobal.com/automotive-insights/en/blogs/2025-auto-sales-forecast-global
+   Summary: New global auto sales are expected to rise 1.7% year-over-year, to 89.6 million units, according to S&P Global Mobility's 2025 auto sales forecast.
+
+3. Cox Automotive's 2025 Outlook: Market Growth, Improving ...
+   URL: https://www.coxautoinc.com/news/cox-automotives-2025-outlook-market-growth-improving-affordability-and-higher-buyer-satisfaction-expected-in-year-ahead/
+   Summary: Growth remains slow, but the trends are positive, and 2025 is expected to be the third straight year of growth.
+

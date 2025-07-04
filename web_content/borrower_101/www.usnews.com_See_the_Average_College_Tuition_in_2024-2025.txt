@@ -1,0 +1,16 @@
+URL: https://www.usnews.com/education/best-colleges/paying-for-college/articles/paying-for-college-infographic
+Borrower ID: 101
+Search Query: cost of college education in IT region over next 5 years
+Original Title: See the Average College Tuition in 2024-2025
+Original Summary: The average tuition and fees at private ranked colleges has climbed by about 5.5% over the last year, according to data for the 2024-2025 school year.
+Page Title: 
+Content Length: 0 characters
+Scraping Status: failed
+Date Scraped: 2025-07-04 09:07:10
+================================================================================
+
+Error: Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://www.usnews.com/education/best-colleges/paying-for-college/articles/paying-for-college-infographic
+Call log:
+  - navigating to "https://www.usnews.com/education/best-colleges/paying-for-college/articles/paying-for-college-infographic", waiting until "networkidle"
+
+Original Summary: The average tuition and fees at private ranked colleges has climbed by about 5.5% over the last year, according to data for the 2024-2025 school year.

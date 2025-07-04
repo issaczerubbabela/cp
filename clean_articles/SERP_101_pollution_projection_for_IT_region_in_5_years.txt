@@ -1,0 +1,18 @@
+Search Query: pollution projection for IT region in 5 years
+Search Engine: Google (via SerpAPI)
+Date: 2025-07-04 08:55:10
+Borrower ID: 101
+================================================================================
+
+1. Air Quality - Fifth National Climate Assessment
+   URL: https://nca2023.globalchange.gov/chapter/14
+   Summary: Climate change is projected to worsen air quality in many US regions (medium confidence) , thereby harming human health and increasing premature death (very ...
+
+2. Climate Change Impacts on Air Quality | US EPA
+   URL: https://www.epa.gov/climateimpacts/climate-change-impacts-air-quality
+   Summary: Climate change is expected to worsen harmful ground-level ozone, increase people's exposure to allergens like pollen, and contribute to worsening air quality.
+
+3. Climate Change Will Make Air Pollution Worse. Here's How.
+   URL: https://news.ncsu.edu/2024/06/climate-change-and-ozone/
+   Summary: Climate change is projected to worsen ozone pollution over many populated regions, with larger impacts at higher concentrations.
+

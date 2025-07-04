@@ -1,0 +1,16 @@
+URL: https://www.wallstreetzen.com/stocks/us/nyse/infy/stock-forecast
+Borrower ID: 101
+Search Query: Infosys stock performance 5-year outlook
+Original Title: INFY Infosys Ltd Stock Forecast, Predictions & Price Target
+Original Summary: On average, 6 Wall Street analysts forecast INFY's earnings for 2027 to be $3,479,672,195, with the lowest INFY earnings forecast at $3,279,185,297, and the ...
+Page Title: 
+Content Length: 0 characters
+Scraping Status: failed
+Date Scraped: 2025-07-04 09:12:48
+================================================================================
+
+Error: Page.goto: Timeout 30000ms exceeded.
+Call log:
+  - navigating to "https://www.wallstreetzen.com/stocks/us/nyse/infy/stock-forecast", waiting until "networkidle"
+
+Original Summary: On average, 6 Wall Street analysts forecast INFY's earnings for 2027 to be $3,479,672,195, with the lowest INFY earnings forecast at $3,279,185,297, and the ...

@@ -1,0 +1,16 @@
+URL: https://www.quora.com/Will-many-programmers-lose-their-jobs-in-the-next-5-years-There-are-many-AI-tools-that-speed-up-the-development-process-which-is-good-but-will-it-affect-the-job-market-in-the-future
+Borrower ID: 101
+Search Query: Software Engineer automation risk in 5 years
+Original Title: Will many programmers lose their jobs in the next 5 years? ...
+Original Summary: It will impact job markets and be the greatest force of disruption that we have ever encountered. · The thing is, building sophisticated software ...
+Page Title: 
+Content Length: 0 characters
+Scraping Status: failed
+Date Scraped: 2025-07-04 09:19:21
+================================================================================
+
+Error: Page.goto: Timeout 30000ms exceeded.
+Call log:
+  - navigating to "https://www.quora.com/Will-many-programmers-lose-their-jobs-in-the-next-5-years-There-are-many-AI-tools-that-speed-up-the-development-process-which-is-good-but-will-it-affect-the-job-market-in-the-future", waiting until "networkidle"
+
+Original Summary: It will impact job markets and be the greatest force of disruption that we have ever encountered. · The thing is, building sophisticated software ...

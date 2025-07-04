@@ -1,0 +1,13 @@
+URL: https://www.reddit.com/r/AskEngineers/comments/b7hevl/went_to_school_late_will_be_graduating_at_age_of/
+Borrower ID: 102
+Search Query: replaceability of Mechanical Engineer aged 40 in Automotive
+Original Title: Went to school late. Will be graduating at age of 40 as ...
+Original Summary: Your age will not be a problem for landing a job. I've met a few people who decide to become engineers after working on something totally different for years.
+Page Title: Reddit - The heart of the internet
+Content Length: 0 characters
+Scraping Status: low_content
+Date Scraped: 2025-07-04 09:32:04
+================================================================================
+
+Error: None
+Original Summary: Your age will not be a problem for landing a job. I've met a few people who decide to become engineers after working on something totally different for years.

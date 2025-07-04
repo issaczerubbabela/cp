@@ -1,0 +1,13 @@
+URL: https://www.quora.com/Why-do-software-developers-age-over-40-leave-the-industry
+Borrower ID: 101
+Search Query: replaceability of Software Engineer aged 40 in IT
+Original Title: Why do software developers age over 40 leave the industry?
+Original Summary: There does exist ageism in the industry. And there is a pattern of firing older, more expensive developers, that's more common than it should be ...
+Page Title: Why do software developers age over 40 leave the industry? - Quora
+Content Length: 0 characters
+Scraping Status: low_content
+Date Scraped: 2025-07-04 09:17:21
+================================================================================
+
+Error: None
+Original Summary: There does exist ageism in the industry. And there is a pattern of firing older, more expensive developers, that's more common than it should be ...

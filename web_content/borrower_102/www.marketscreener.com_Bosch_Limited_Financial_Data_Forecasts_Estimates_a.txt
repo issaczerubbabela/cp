@@ -1,0 +1,13 @@
+URL: https://www.marketscreener.com/quote/stock/BOSCH-LIMITED-6493403/finances/
+Borrower ID: 102
+Search Query: Bosch stock performance 5-year outlook
+Original Title: Bosch Limited: Financial Data Forecasts Estimates and ...
+Original Summary: Bosch Limited: Forcasts, revenue, earnings, analysts expectations, ratios for Bosch Limited Stock | BOSCHLTD | INE323A01026.
+Page Title: Access Denied
+Content Length: 58 characters
+Scraping Status: low_content
+Date Scraped: 2025-07-04 09:24:41
+================================================================================
+
+Error: None
+Original Summary: Bosch Limited: Forcasts, revenue, earnings, analysts expectations, ratios for Bosch Limited Stock | BOSCHLTD | INE323A01026.

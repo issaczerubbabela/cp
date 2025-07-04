@@ -1,0 +1,13 @@
+URL: https://pmc.ncbi.nlm.nih.gov/articles/PMC6250783/
+Borrower ID: 101
+Search Query: disease risk in high-pollution zones in IT region
+Original Title: Particulate Matter Air Pollution: Effects on the ...
+Original Summary: Both acute and chronic exposure to PM air pollution is associated with increased risk of death from cardiovascular diseases including ischemic heart disease, ...
+Page Title: Particulate Matter Air Pollution: Effects on the Cardiovascular System - PMC
+Content Length: 0 characters
+Scraping Status: low_content
+Date Scraped: 2025-07-04 09:07:43
+================================================================================
+
+Error: None
+Original Summary: Both acute and chronic exposure to PM air pollution is associated with increased risk of death from cardiovascular diseases including ischemic heart disease, ...

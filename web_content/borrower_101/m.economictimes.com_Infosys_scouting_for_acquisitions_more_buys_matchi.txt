@@ -1,0 +1,16 @@
+URL: https://m.economictimes.com/tech/information-tech/infosys-scouting-for-acquisitions-more-buys-matching-in-tech-scale-possible-ceo-salil-parekh/articleshow/112780829.cms
+Borrower ID: 101
+Search Query: Infosys acquisition merger possibility in 5 years
+Original Title: Infosys scouting for acquisitions; more buys matching 'in- ...
+Original Summary: In an interview to PTI, Infosys CEO Salil Parekh said the company is keen on acquisitions in areas like data analytics, SAAS, and may look at ...
+Page Title: 
+Content Length: 0 characters
+Scraping Status: failed
+Date Scraped: 2025-07-04 09:10:53
+================================================================================
+
+Error: Page.goto: Timeout 30000ms exceeded.
+Call log:
+  - navigating to "https://m.economictimes.com/tech/information-tech/infosys-scouting-for-acquisitions-more-buys-matching-in-tech-scale-possible-ceo-salil-parekh/articleshow/112780829.cms", waiting until "networkidle"
+
+Original Summary: In an interview to PTI, Infosys CEO Salil Parekh said the company is keen on acquisitions in areas like data analytics, SAAS, and may look at ...

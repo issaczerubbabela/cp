@@ -1,0 +1,18 @@
+Search Query: Software Engineer skill obsolescence trend over next 5 years
+Search Engine: Google (via SerpAPI)
+Date: 2025-07-04 08:54:59
+Borrower ID: 101
+================================================================================
+
+1. Will AI Make Software Engineers Obsolete? Here's the Reality
+   URL: https://bootcamps.cs.cmu.edu/blog/will-ai-replace-software-engineers-reality-check
+   Summary: By 2027, generative AI (GenAI) will create new roles in software engineering and operations, prompting 80% of engineers to upskill, according to ...
+
+2. The Future of Software Engineering in the Next 5 Years
+   URL: https://www.octopusintelligence.com/the-future-of-software-engineering-in-the-next-5-years-and-beyond/
+   Summary: For the next five years, the software industry should expect enhanced cloud services, allowing software engineers to focus on the most crucial ...
+
+3. Is There a Future for Software Engineers? The Impact of AI ...
+   URL: https://brainhub.eu/library/software-developer-age-of-ai
+   Summary: Gartner's report highlights that by 2027, 50% of software engineering organizations will utilize software engineering intelligence platforms to ...
+

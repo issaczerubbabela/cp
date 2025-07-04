@@ -1,0 +1,16 @@
+URL: https://money.usnews.com/investing/articles/recession-2025-what-to-watch-how-to-prepare
+Borrower ID: 101
+Search Query: IT recession or growth prediction 5 years
+Original Title: Recession 2025: What to Watch and How to Prepare
+Original Summary: JPMorgan estimates recession probability at 40% in 2025, citing the potentially negative impact tariffs could have on consumer sentiment and economic growth.
+Page Title: 
+Content Length: 0 characters
+Scraping Status: failed
+Date Scraped: 2025-07-04 09:14:57
+================================================================================
+
+Error: Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://money.usnews.com/investing/articles/recession-2025-what-to-watch-how-to-prepare
+Call log:
+  - navigating to "https://money.usnews.com/investing/articles/recession-2025-what-to-watch-how-to-prepare", waiting until "networkidle"
+
+Original Summary: JPMorgan estimates recession probability at 40% in 2025, citing the potentially negative impact tariffs could have on consumer sentiment and economic growth.

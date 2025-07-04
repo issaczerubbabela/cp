@@ -1,0 +1,18 @@
+Search Query: IT recession or growth prediction 5 years
+Search Engine: Google (via SerpAPI)
+Date: 2025-07-04 08:54:31
+Borrower ID: 101
+================================================================================
+
+1. Recession 2025: What to Watch and How to Prepare
+   URL: https://money.usnews.com/investing/articles/recession-2025-what-to-watch-how-to-prepare
+   Summary: JPMorgan estimates recession probability at 40% in 2025, citing the potentially negative impact tariffs could have on consumer sentiment and economic growth.
+
+2. The probability of a recession has fallen to 40%
+   URL: https://www.jpmorgan.com/insights/global-research/economy/recession-probability
+   Summary: J.P. Morgan Research has reduced the probability of a U.S. and global recession occurring in 2025 from 60% to 40%. However, a period of sub-par growth could lie ...
+
+3. Slowing growth, higher prices: A deeper dive into our U.S. ...
+   URL: https://thoughtleadership.rbc.com/slowing-growth-higher-prices-a-deeper-dive-into-our-u-s-forecasts/
+   Summary: We aren't forecasting a technical recession in 2025, but we have a significant slowdown in growth which flirts around 0% for three quarters (0.3 ...
+

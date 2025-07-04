@@ -1,0 +1,13 @@
+URL: https://www.bls.gov/opub/mlr/2022/article/growth-trends-for-selected-occupations-considered-at-risk-from-automation.htm
+Borrower ID: 102
+Search Query: Mechanical Engineer skill obsolescence trend over next 5 years
+Original Title: Growth trends for selected occupations considered at risk ...
+Original Summary: This article assembles the individual occupations that widely cited recent works on automation consider highly vulnerable to substitution by robots and AI
+Page Title: Growth trends for selected occupations considered at risk from automation : Monthly Labor Review : U.S. Bureau of Labor Statistics
+Content Length: 0 characters
+Scraping Status: low_content
+Date Scraped: 2025-07-04 09:28:29
+================================================================================
+
+Error: None
+Original Summary: This article assembles the individual occupations that widely cited recent works on automation consider highly vulnerable to substitution by robots and AI

@@ -1,0 +1,16 @@
+URL: https://fsapartners.ed.gov/knowledge-center/fsa-handbook/2024-2025/vol3/ch2-cost-attendance-budget
+Borrower ID: 102
+Search Query: financial burden of children entering college in Automotive region
+Original Title: Cost of Attendance (Budget) | 2024-2025 Federal Student ...
+Original Summary: The cost of attendance (COA) is the cornerstone of establishing a student's financial need, as it sets a limit on the total aid that a student may receive.
+Page Title: 
+Content Length: 0 characters
+Scraping Status: failed
+Date Scraped: 2025-07-04 09:27:04
+================================================================================
+
+Error: Page.goto: Timeout 30000ms exceeded.
+Call log:
+  - navigating to "https://fsapartners.ed.gov/knowledge-center/fsa-handbook/2024-2025/vol3/ch2-cost-attendance-budget", waiting until "networkidle"
+
+Original Summary: The cost of attendance (COA) is the cornerstone of establishing a student's financial need, as it sets a limit on the total aid that a student may receive.

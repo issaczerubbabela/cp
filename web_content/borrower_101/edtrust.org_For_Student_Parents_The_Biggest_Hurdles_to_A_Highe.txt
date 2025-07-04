@@ -1,0 +1,13 @@
+URL: https://edtrust.org/rti/for-student-parents-the-biggest-hurdles-to-a-higher-education-are-costs-and-finding-child-care/
+Borrower ID: 101
+Search Query: financial burden of children entering college in IT region
+Original Title: For Student Parents, The Biggest Hurdles to A Higher ...
+Original Summary: Our analysis shows that a student parent would need to work anywhere from 30 to 90 hours per week, on average, to cover child care and tuition ...
+Page Title: For Student Parents, The Biggest Hurdles to A Higher Education are Costs and Finding Child Care - EdTrust
+Content Length: 0 characters
+Scraping Status: low_content
+Date Scraped: 2025-07-04 09:10:07
+================================================================================
+
+Error: None
+Original Summary: Our analysis shows that a student parent would need to work anywhere from 30 to 90 hours per week, on average, to cover child care and tuition ...

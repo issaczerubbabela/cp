@@ -1,0 +1,13 @@
+URL: https://www.fitchratings.com/research/corporate-finance/fitch-affirms-robert-bosch-gmbh-at-a-on-acquisition-announcement-outlook-stable-24-07-2024
+Borrower ID: 102
+Search Query: Bosch acquisition merger possibility in 5 years
+Original Title: Fitch Affirms Robert Bosch GmbH at 'A' on Acquisition ...
+Original Summary: Key Assumptions. - We model that Bosch will acquire and fully consolidate Johnson Control's HVAC units in 2025. - We expect a 2023-2027 revenue ...
+Page Title: Fitch Affirms Robert Bosch GmbH at 'A' on Acquisition Announcement; Outlook Stable
+Content Length: 0 characters
+Scraping Status: low_content
+Date Scraped: 2025-07-04 09:22:14
+================================================================================
+
+Error: None
+Original Summary: Key Assumptions. - We model that Bosch will acquire and fully consolidate Johnson Control's HVAC units in 2025. - We expect a 2023-2027 revenue ...

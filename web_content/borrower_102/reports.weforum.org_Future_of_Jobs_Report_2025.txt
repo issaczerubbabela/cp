@@ -1,0 +1,16 @@
+URL: https://reports.weforum.org/docs/WEF_Future_of_Jobs_Report_2025.pdf
+Borrower ID: 102
+Search Query: Mechanical Engineer skill obsolescence trend over next 5 years
+Original Title: Future of Jobs Report 2025
+Original Summary: These trends are expected to have a divergent effect on jobs, driving both the fastest-growing and fastest-declining roles, and fueling demand for technology- ...
+Page Title: 
+Content Length: 0 characters
+Scraping Status: failed
+Date Scraped: 2025-07-04 09:28:18
+================================================================================
+
+Error: Page.goto: net::ERR_ABORTED at https://reports.weforum.org/docs/WEF_Future_of_Jobs_Report_2025.pdf
+Call log:
+  - navigating to "https://reports.weforum.org/docs/WEF_Future_of_Jobs_Report_2025.pdf", waiting until "networkidle"
+
+Original Summary: These trends are expected to have a divergent effect on jobs, driving both the fastest-growing and fastest-declining roles, and fueling demand for technology- ...

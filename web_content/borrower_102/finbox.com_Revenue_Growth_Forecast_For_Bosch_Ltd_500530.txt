@@ -1,0 +1,13 @@
+URL: https://finbox.com/BSE:500530/explorer/revenue_proj_growth
+Borrower ID: 102
+Search Query: Bosch stock performance 5-year outlook
+Original Title: Revenue Growth Forecast For Bosch Ltd (500530)
+Original Summary: Performance Summary. Bosch's revenue growth forecast is 137.1%; Bosch's revenue growth forecast is expected to average 22.6% over the next 5 fiscal years.
+Page Title: Revenue Growth Forecast For Bosch Ltd (500530)
+Content Length: 0 characters
+Scraping Status: low_content
+Date Scraped: 2025-07-04 09:24:33
+================================================================================
+
+Error: None
+Original Summary: Performance Summary. Bosch's revenue growth forecast is 137.1%; Bosch's revenue growth forecast is expected to average 22.6% over the next 5 fiscal years.

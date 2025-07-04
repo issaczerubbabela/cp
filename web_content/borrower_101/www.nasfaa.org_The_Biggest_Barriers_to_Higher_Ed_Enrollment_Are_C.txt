@@ -1,0 +1,181 @@
+URL: https://www.nasfaa.org/news-item/34147/Report_The_Biggest_Barriers_to_Higher_Ed_Enrollment_Are_Cost_and_Lack_of_Financial_Aid
+Borrower ID: 101
+Search Query: financial burden of children entering college in IT region
+Original Title: The Biggest Barriers to Higher Ed Enrollment Are Cost and ...
+Original Summary: Among current, former, and prospective students, 53% said financial aid or scholarships was an important factor on whether they would continue ...
+Page Title: NASFAA | Report: The Biggest Barriers to Higher Ed Enrollment Are Cost and Lack of Financial Aid
+Content Length: 7909 characters
+Scraping Status: success
+Date Scraped: 2025-07-04 09:09:00
+================================================================================
+
+GEMINI SUMMARY:
+----------------------------------------
+Okay, here's a detailed summary of the provided web content, focusing on the financial burden of children entering college, the influence of the IT sector in this context, and highlighting information pertinent to loan risk assessment. Since "IT region" wasn't explicitly mentioned in the content, I am going to assume that it means the influence of the technology sector, and the affordability of IT related degrees.
+
+**1. Comprehensive Summary**
+
+The web content highlights the significant barrier of college costs to higher education enrollment and persistence.  A major report by Gallup and Lumina Foundation, based on a survey of over 14,000 U.S. adults without a college degree, reveals that a staggering 85% of those who stopped out or never enrolled cite cost as a primary reason.  The need to work also plays a significant role (77%).  Even among currently enrolled students, a substantial 31% have considered dropping out due to financial constraints, and over half of those (54%) struggle to pay monthly bills. The report emphasizes that while cost is a universal hurdle, certain demographic groups, such as women, face even greater challenges.
+
+The content underscores the importance of addressing these financial barriers, especially in light of projections that a large majority (72%) of jobs will require post-secondary education by 2031.  The U.S. is currently falling short, with only 54% of adults aged 25-64 meeting this educational threshold. The success of the U.S. economy depends on making education more accessible.
+
+The content also mentions various initiatives and proposals aimed at improving college affordability and reducing student debt. These include the College Cost Transparency (CCT) initiative, aimed at clarifying financial aid offers, and various legislative efforts to codify the SAVE repayment plan and prevent loan defaults. It references a study that revealed Black borrowers are more likely to never be able to pay off student debt, less likely to receive outside help, and is a very important thing to consider when assessing loan risk. This content mentioned the need for more transparency in financial aid, especially with the new 2024-25 FAFSA rollout, and gives a few examples of programs aiming to help with the issues.
+
+Furthermore, the content notes the importance of financial aid offices in helping students manage their finances. It highlights the impact of the pandemic on college pricing and student aid and touches on the impact of NCAA rules allowing college athletes to profit from their name, image, and likeness on financial aid offices.
+
+**Relevance to IT Region**: Given the assumption of the influence of technology on degrees, this article notes a trend of the need for upskilling, and needing higher education to advance in the technology sector. This makes the cost of education a serious factor when considering the future jobs in the IT sector.
+
+**2. Key Facts and Statistics Relevant to the Search Query**
+
+*   **85%** of adults who stopped out or never enrolled in higher education cite the cost as an important reason.
+*   **77%** of adults who stopped out or never enrolled cite the need to work as an important reason.
+*   **31%** of currently enrolled students have considered stopping out due to the cost.
+*   **54%** of students who considered stopping out struggle to pay monthly bills.
+*   **66%** of adults without a college degree said the cost of college, including tuition and room and board, was an important factor.
+*   **53%** of current, former, and prospective students cited financial aid or scholarships as an important factor.
+*   Projections that **72%** of jobs will require some kind of education beyond high school by 2031.
+*   **54%** of U.S. adults aged 25 to 64 have met that education threshold.
+*   **59%** of college students have considered dropping out due to financial stress (according to another report).
+*   Black borrowers are more likely to never pay off student debt and are less likely to receive outside help.
+
+**3. Important Trends or Predictions Mentioned**
+
+*   **Increased Need for Post-Secondary Education:** The Georgetown Center on Education and the Workforce predicts a significant increase in the demand for jobs requiring education beyond high school.
+*   **Financial Instability Impacting Retention:** Financial stress is becoming a major challenge for student retention in higher education.
+*   **Continued Scrutiny of Financial Aid Transparency:** The College Cost Transparency initiative indicates a growing demand for clarity in financial aid offers.
+*   **Graduate Loans Dominating:** A report suggests that graduate loans could soon constitute the majority of the federal student loan portfolio.
+
+**4. Any Specific Company or Industry Insights**
+
+*   **Gallup and Lumina Foundation:** These organizations are actively involved in researching and reporting on the barriers to higher education. Their collaborative annual report is a key source of information.
+*   **The College Cost Transparency (CCT) initiative:** This initiative involves over 550 institutions committed to clarifying financial aid offers.
+*   **NASFAA (National Association of Student Financial Aid Administrators):** Referenced in the context of their 2025 national conference in Anaheim, this shows their commitment to helping aid students.
+
+**5. Financial Data or Forecasts (as applicable to loan risk assessment)**
+
+While the document does not provide explicit numerical financial forecasts, the following points are relevant to loan risk assessment:
+
+*   **High Percentage of Students Considering Stopping Out:** The large percentage of students considering dropping out due to cost suggests a potentially higher risk of loan default. Students may be taking on debt without finishing their degree, limiting their future earning potential.
+*   **Struggling with Monthly Bills:** The fact that over half of those considering stopping out struggle with monthly bills indicates a pre-existing financial vulnerability, increasing the likelihood of loan repayment difficulties.
+*   **Unequal Burden by Demographics:** Disparities across genders and races indicate that loan risk assessment should consider these factors. The report mentions Black borrowers are statistically more likely to never pay off student debt, and are less likely to receive outside help.
+*   **Increasing Reliance on Graduate Loans:** A potential shift towards graduate loans forming the majority of the federal student loan portfolio suggests a need to assess the risk profiles of graduate students more carefully, considering their potentially higher debt loads and career paths.
+
+**Loan Risk Assessment Considerations:**
+
+The information presented underscores the importance of incorporating several factors into loan risk assessments:
+
+*   **Cost of Attendance:** The overall cost of attendance, including tuition, fees, and living expenses, should be a primary consideration.
+*   **Student's Financial Stability:** Assess a student's current financial situation, including their ability to pay monthly bills and their employment history.
+*   **Demographic Factors:** Account for demographic factors such as gender and race, as these may influence a student's likelihood of completing their degree and repaying their loans.
+*   **Field of Study:** Consider the earning potential associated with a student's chosen field of study. IT-related fields might seem lucrative, but the specific specialization and job market prospects should be assessed.
+*   **Persistence to Graduation:** Factor in the likelihood that a student will persist to graduation, based on factors such as their academic performance and access to support services.
+*   **Debt-to-Income Ratio:** Project the student's future debt-to-income ratio upon graduation and assess their ability to manage loan repayments.
+*   **Access to Financial Aid:** Consider the level of financial aid and scholarships available to the student, as well as the transparency of financial aid offers.
+
+FULL CONTENT:
+----------------------------------------
+U.S. adults who either stopped out, or never enrolled in a postsecondary education program, collectively cited the biggest barrier to accessing a degree or credential is the cost of college.
+
+These findings were part of an annual report conducted by Gallup and Lumina Foundation, which aims to learn more about U.S. adults' interest in pursuing higher education, what's keeping them from enrolling, and what's causing currently enrolled students to consider stopping out.
+
+The report includes responses from over 14,000 U.S. adults, aged 18 to 59 who do not have a college degree and fall into one of the following groups – currently enrolled students; adults who were previously enrolled in a certificate, certification, associate degree, or bachelor’s degree program but stopped out of their program before completing it; and adults who never enrolled in any type of education after high school.
+
+According to the report, 85% of adults – who either stopped out or never enrolled in a higher education program – said an important reason why they weren’t currently enrolled is because of the cost of the degree or credential program. Further, 77% of these adults cited their need to work as an important reason why they weren’t currently enrolled in a program.
+
+Among adults who are currently enrolled in a higher education program, 31% considered stopping out due to the cost of the degree or credential program. Overall 35% of currently enrolled students said they have considered stopping out in the past six months and of that group, 54% say they struggle to pay monthly bills.
+
+The report noted that while cost is the predominant barrier for unenrolled adults of all ages, genders and races, certain subpopulations of unenrolled adults face unique barriers. For instance, nearly two-thirds of women say cost is a very important barrier to enrollment, compared with less than half of men.
+
+As for what could make an adult enroll into higher education or stay enrolled, 66% of adults without a college degree said that the cost of college, including tuition and room and board, was an important factor. Among current, former, and prospective students, 53% said financial aid or scholarships was an important factor on whether they would continue in their program or potentially enroll into a program.
+
+With college costs being the biggest barrier for prospective students, Gallup and Lumina Foundation noted the importance of addressing these barriers – especially as the Georgetown Center on Education and the Workforce projects that by 2031, 72% of jobs will require some kind of education beyond high school. So far, Lumina estimates that 54% of U.S. adults aged 25 to 64 have met that education threshold.
+
+“Ensuring these educational pathways are accessible to as many Americans as possible is not just a boon to those individuals’ careers and finances; the future of the U.S. economy depends on it,” the report read. “Closing that gap will rely on helping those who are considering higher education overcome the barriers currently preventing them from enrolling, persisting and completing a degree or credential.”
+
+Other surveys show similar findings, including a recent report from , which found financial instability is creating challenges with student retention in higher education. Out of over 1,500 U.S. college students, 59% said they considered dropping out due to financial stress. At the same time many students surveyed identified financial stress as affecting their college experience.
+
+College affordability is more important than ever — especially in the year of the 2024-25 FAFSA rollout — which is why The College Cost Transparency (CCT) initiative is asking institutions to commit to its principles and standards in financial aid offers to help bring clarity and transparency around the cost of college to students and families. So far, more than 550 institutions from all 50 states, Puerto Rico, and Guam have joined as a partner institution.
+
+If you are interested in participating in CCT be sure to submit your commitment before August 31 for a chance to win one of three complimentary registrations to NASFAA 2025 in Anaheim!
+
+McMahon Fields Questions from Senators on Cuts to Maximum Pell Grant, TRIO, and More Student Aid Programs in President Trump’s Budget Request
+
+ED Announces Forthcoming Resumption of Defaulted Loan Collections
+
+What a Harris Administration Could Mean for Student Financial Aid
+
+Senators Call for Financial Aid Transparency From Institutions, Loan Servicers
+
+Legislation Aims to Prevent Borrowers From Defaulting on Their Student Loans
+
+ED Begins Notifying Borrowers of Potential Student Loan Forgiveness
+
+MOHELA Lawsuit Claims Servicer Misled and Overcharged Borrowers
+
+Federal Appeals Court Fully Blocks SAVE Repayment Plan
+
+Part of SAVE Repayment Plan Can Resume After Injunction, Appeals Court Rules
+
+Report: Levels of Educational Attainment on the Rise for All Racial and Ethnic Groups, but Financial Equity Gaps Remain
+
+Democratic Senators Introduce Legislation to Codify SAVE Repayment Plan
+
+NASFAA Shares Feedback on College Cost Reduction Act with House Education and Workforce Committee Leadership
+
+Is a Student Eligible To Receive an FSEOG If She Has Reached the 600% Lifetime Eligibility Used (LEU) For Pell? (Award Year: 2024-25>)
+
+Book Review: "Indentured Students: How Government Guaranteed Loans Left Generations Drowning in College Debt"
+
+When a Student Is Enrolled During the Summer Term, Do We Consider His FWS Earnings As OFA For the Fall Term? (Award Year: 2024-25>)
+
+How Do We Handle Receipt Of Other Financial Assistance (OFA) Late In the Award Year? (Award Year: 2024-25>)
+
+Report: Graduate Loans Could Soon Comprise the Majority of Federal Student Loan Portfolio
+
+Can We Combine Regular and Preparatory Coursework To Award Title IV Aid For the Same Period Of Enrollment? (Award Year: 2024-25>)
+
+Survey: A Majority of Americans Believe in the Value of Postsecondary Education
+
+Are We Required To Use "Federal" In the Names Of the Title IV Aid Programs?
+
+House Education Subcommittee Discusses College Affordability, Student Debt Solutions
+
+Biden’s Debt Relief Plan Heads to Negotiated Rulemaking Public Hearing
+
+ED Officials Give Updates on FAFSA Simplification, SCOTUS Cases, and Other Initiatives at NASFAA 2023
+
+Foxx, Cassidy Press ED for Plan on Resuming Student Loan Repayment
+
+Can Schools Use a Negative Student Aid Index When Awarding FSEOG? (Award Year: 2024-25>)
+
+College and University Endowment Returns Fell in 2022, Reflecting ‘Turbulent’ Year With Surging Inflation
+
+2022 Year in Review: NASFAA's 10 Most Popular Original Articles
+
+Pandemic Still Impacts College Pricing and Student Aid, Annual Report Finds
+
+Some Borrowers Are Getting Their Pandemic Payments Refunded in Order to Maximize Loan Forgiveness
+
+Financial Aid Offices Detail HEERF Annual Reporting Undertaking
+
+Eliminating Fixed Repayment Could Provide Stronger Protections for Student Borrowers, Report Argues
+
+Does the First-Come, First-Served Prohibition Still Apply When Awarding FSEOG?
+
+Free College Sounds Good, But Is It the Best Idea? New Report Highlights Alternatives
+
+NCAA Permitting College Athletes to Profit Off of Name, Image, and Likeness Comes With Questions for Financial Aid Offices
+
+Report Outlines Ways Institutions Can Increase Equity in Recruitment, Admissions, and Enrollment Practices
+
+Higher Ed Groups Urge ED to Extend Repayment Relief Through Sept. 2021
+
+Study Finds Black Borrowers More Likely to Never Be Able to Pay Off Student Debt, Less Likely to Receive Outside Help
+
+Harris Touts Biden’s Free College Plan, Debt Cancellation During Debate With Pence
+
+Ongoing Study Shows Targeted College Aid Boosts Student Enrollment and Reduces Debt
+
+Following CARES Act Unemployment Benefits Expiration, Options Remain for Working Students
+
+Higher Education Community Pushes for Expanded Student Debt Relief During Coronavirus Pandemic

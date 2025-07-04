@@ -1,0 +1,13 @@
+URL: https://www.reuters.com/markets/deals/bosch-eyes-offer-appliance-maker-whirlpool-sources-say-2024-06-26/
+Borrower ID: 102
+Search Query: Bosch acquisition merger possibility in 5 years
+Original Title: Bosch weighs offer for appliance maker Whirlpool, sources ...
+Original Summary: "A potential acquirer could believe in the potential for some future recovery with the right multi-year timeframe and macro backdrop," RBC ...
+Page Title: reuters.com
+Content Length: 0 characters
+Scraping Status: low_content
+Date Scraped: 2025-07-04 09:21:56
+================================================================================
+
+Error: None
+Original Summary: "A potential acquirer could believe in the potential for some future recovery with the right multi-year timeframe and macro backdrop," RBC ...

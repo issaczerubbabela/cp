@@ -1,0 +1,18 @@
+Search Query: financial burden of children entering college in IT region
+Search Engine: Google (via SerpAPI)
+Date: 2025-07-04 08:55:26
+Borrower ID: 101
+================================================================================
+
+1. The Biggest Barriers to Higher Ed Enrollment Are Cost and ...
+   URL: https://www.nasfaa.org/news-item/34147/Report_The_Biggest_Barriers_to_Higher_Ed_Enrollment_Are_Cost_and_Lack_of_Financial_Aid
+   Summary: Among current, former, and prospective students, 53% said financial aid or scholarships was an important factor on whether they would continue ...
+
+2. How Much Does It Cost to Send My Kid to College in Each ...
+   URL: https://meetfabric.com/blog/how-much-does-it-cost-to-send-my-kid-to-college-in-each-part-of-the-country
+   Summary: Here's how average tuition and fees break down by region for in-state tuition at a four-year public college or university.
+
+3. For Student Parents, The Biggest Hurdles to A Higher ...
+   URL: https://edtrust.org/rti/for-student-parents-the-biggest-hurdles-to-a-higher-education-are-costs-and-finding-child-care/
+   Summary: Our analysis shows that a student parent would need to work anywhere from 30 to 90 hours per week, on average, to cover child care and tuition ...
+

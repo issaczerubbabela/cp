@@ -1,0 +1,18 @@
+Search Query: cost of college education in IT region over next 5 years
+Search Engine: Google (via SerpAPI)
+Date: 2025-07-04 08:55:18
+Borrower ID: 101
+================================================================================
+
+1. Average Cost of College [2025]: Yearly Tuition + Expenses
+   URL: https://educationdata.org/average-cost-of-college
+   Summary: Out-of-state students pay $45,708 per year or $182,832 over 4 years. Private, nonprofit university students pay $58,628 per year or $234,512 ...
+
+2. See the Average College Tuition in 2024-2025
+   URL: https://www.usnews.com/education/best-colleges/paying-for-college/articles/paying-for-college-infographic
+   Summary: The average tuition and fees at private ranked colleges has climbed by about 5.5% over the last year, according to data for the 2024-2025 school year.
+
+3. Vanguard college cost projector - ssnc.cloud
+   URL: https://vanguardcollege.ssnc.cloud/collcost.php
+   Summary: College cost projector. Estimate the future cost of a college education based on today's costs. Years until college.
+
