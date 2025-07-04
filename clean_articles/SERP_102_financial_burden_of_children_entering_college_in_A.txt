@@ -1,0 +1,18 @@
+Search Query: financial burden of children entering college in Automotive region
+Search Engine: Google (via SerpAPI)
+Date: 2025-07-04 08:56:30
+Borrower ID: 102
+================================================================================
+
+1. Fast Facts: Tuition costs of colleges and universities (76)
+   URL: https://nces.ed.gov/fastfacts/display.asp?id=76
+   Summary: The total cost of attending a postsecondary institution includes tuition and required fees; books and supplies; and the average cost for room, board, and other ...
+
+2. Cost of Attendance (Budget) | 2024-2025 Federal Student ...
+   URL: https://fsapartners.ed.gov/knowledge-center/fsa-handbook/2024-2025/vol3/ch2-cost-attendance-budget
+   Summary: The cost of attendance (COA) is the cornerstone of establishing a student's financial need, as it sets a limit on the total aid that a student may receive.
+
+3. The Effects of Rising Student Costs in Higher Education
+   URL: https://sr.ithaka.org/publications/the-effects-of-rising-student-costs-in-higher-education/
+   Summary: Rising costs and increasing financial pressures on public colleges and universities across the nation threaten to lower overall educational ...
+

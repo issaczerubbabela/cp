@@ -1,0 +1,18 @@
+Search Query: pollution projection for Automotive region in 5 years
+Search Engine: Google (via SerpAPI)
+Date: 2025-07-04 08:56:11
+Borrower ID: 102
+================================================================================
+
+1. Multi-Pollutant Emissions Standards for Model Years 2027 ...
+   URL: https://www.federalregister.gov/documents/2024/04/18/2024-06214/multi-pollutant-emissions-standards-for-model-years-2027-and-later-light-duty-and-medium-duty
+   Summary: These projections typically are based on assessment of a range of existing and developing factors, including state policies (such as the ...
+
+2. Estimated U.S. Average Vehicle Emissions Rates per ...
+   URL: https://www.bts.gov/content/estimated-national-average-vehicle-emissions-rates-vehicle-vehicle-type-using-gasoline-and
+   Summary: MOVES4 includes updates to historical data and methods as well as updates to future year projections and thus provides the current best estimates of emissions ...
+
+3. Carbon Pollution from Transportation | US EPA
+   URL: https://www.epa.gov/transportation-air-pollution-and-climate-change/carbon-pollution-transportation
+   Summary: Light-duty GHG regulations for passenger vehicles and trucks are projected to: Cut 7 billion metric tons of GHG emissions over the lifetimes of ...
+

@@ -1,0 +1,18 @@
+Search Query: cost of college education in Automotive region over next 5 years
+Search Engine: Google (via SerpAPI)
+Date: 2025-07-04 08:56:26
+Borrower ID: 102
+================================================================================
+
+1. How Much is Automotive School
+   URL: https://imagine-america.org/much-automotive-school/
+   Summary: Degrees of this nature fall somewhere within the $10,000-$25,000 price range. Of course, tuition costs can vary substantially when you take into consideration ...
+
+2. See the Average College Tuition in 2024-2025
+   URL: https://www.usnews.com/education/best-colleges/paying-for-college/articles/paying-for-college-infographic
+   Summary: The average tuition and fees at private ranked colleges has climbed by about 5.5% over the last year, according to data for the 2024-2025 school year.
+
+3. Average Cost Of College 2024-2025
+   URL: https://www.bankrate.com/loans/student-loans/average-cost-of-college/
+   Summary: Students are paying $11,610 per year on average in tuition and fees at public, in-state schools, and $30,780 for out-of-state undergraduates ...
+

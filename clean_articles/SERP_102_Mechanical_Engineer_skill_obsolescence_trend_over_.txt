@@ -1,0 +1,18 @@
+Search Query: Mechanical Engineer skill obsolescence trend over next 5 years
+Search Engine: Google (via SerpAPI)
+Date: 2025-07-04 08:55:55
+Borrower ID: 102
+================================================================================
+
+1. Future of Jobs Report 2025
+   URL: https://reports.weforum.org/docs/WEF_Future_of_Jobs_Report_2025.pdf
+   Summary: These trends are expected to have a divergent effect on jobs, driving both the fastest-growing and fastest-declining roles, and fueling demand for technology- ...
+
+2. Growth trends for selected occupations considered at risk ...
+   URL: https://www.bls.gov/opub/mlr/2022/article/growth-trends-for-selected-occupations-considered-at-risk-from-automation.htm
+   Summary: This article assembles the individual occupations that widely cited recent works on automation consider highly vulnerable to substitution by robots and AI
+
+3. Future of Engineering Careers: Emerging Trends and ...
+   URL: https://mckelveyconnect.washu.edu/blog/2025/03/03/future-of-engineering-careers-emerging-trends-and-opportunities/
+   Summary: Engineering job market outlook. The U.S. Bureau of Labor and Statistics predicts that the engineering job market may grow by 8.6% by 2033.
+

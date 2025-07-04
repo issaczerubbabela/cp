@@ -1,0 +1,18 @@
+Search Query: Mechanical Engineer automation risk in 5 years
+Search Engine: Google (via SerpAPI)
+Date: 2025-07-04 08:55:40
+Borrower ID: 102
+================================================================================
+
+1. Will AI Replace Mechanical Engineers? Risks and ...
+   URL: https://www.neuralconcept.com/post/will-ai-replace-engineers
+   Summary: The main problems are job displacement through automation, decision-making reliability, and the limits of machine-driven design. Repetitive tasks, such as basic ...
+
+2. Will Mechanical Engineers be replaced by AI & Robots?
+   URL: https://willrobotstakemyjob.com/mechanical-engineers
+   Summary: Low Risk (21-40%): Jobs in this level have a limited risk of automation, as they demand a mix of technical and human-centric skills. More information on what ...
+
+3. What mechanical engineering jobs might be gone in 5-10 ...
+   URL: https://www.quora.com/What-mechanical-engineering-jobs-might-be-gone-in-5-10-years
+   Summary: Most mechanical engineering jobs are in the manufacturing or automobiles industries. These fields are seeing rapid automation which would reduce ...
+
