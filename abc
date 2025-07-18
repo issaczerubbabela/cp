@@ -1,0 +1,27 @@
+// BULK SYNC: update or delete automations
+export async function POST(request) {
+  try {
+    const records = await request.json();
+
+    if (!Array.isArray(records) || records.length === 0) {
+      return Response.json({ error: 'No records provided' }, { status: 400 });
+    }
+
+    const response = await fetch(`${BACKEND_URL}/api/automations/bulk_sync/`, {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify(records),
+    });
+
+    if (!response.ok) {
+      const errorData = await response.json();
+      return Response.json(errorData, { status: response.status });
+    }
+
+    const result = await response.json();
+    return Response.json(result, { status: 200 });
+  } catch (error) {
+    console.error('Error in bulk sync:', error);
+    return Response.json({ error: `Bulk sync failed: ${error.message}` }, { status: 500 });
+  }
+}
